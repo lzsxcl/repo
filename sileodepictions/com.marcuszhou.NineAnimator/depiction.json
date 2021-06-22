@@ -88,10 +88,6 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "## 核心功能\n目前源正在升级维护中，期间可能影响更新下载。耐心等待"
-				},
-				{
-					"title": "关于授权码",
-					"class": "DepictionHeaderView"
 				},				
 				{
 					"title": "在此点击购买或插件内购买",
