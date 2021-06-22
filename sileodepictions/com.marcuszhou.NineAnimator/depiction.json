@@ -59,14 +59,8 @@
 					"class": "DepictionMarkdownView",
 					"markdown": "## 核心功能\n包罗万象的系统全方位调整、焦点推送、隐私空间应用加密、防误触/右侧返回手势手势、条件性的face设备快速解锁方案、横条电池、透色、h2Arc手势、状态栏dock自定义等等，功能太多不一一阐述"
 				},
-
 				{
-					"title": "依赖源",
-					"text": "repo.packix.com",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "获取授权",
+					"title": "获取授权码",
 					"action": "https://dwz.cn/wdg6IEnw",
 					"class": "DepictionTableButtonView"
 				},
@@ -80,9 +74,29 @@
 				},
 				{
 					"title": "兼容",
-					"text": "iOS 13.0 - 14.x",
+					"text": "iOS (13.0 - 14.x)",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "支持设备",
+					"text": "6s-12pm",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "授权限期",
+					"text": "一机一码，永久授权",
 					"class": "DepictionTableTextView"
 				},				
+				{
+					"title": "耗电情况",
+					"text": "低耗电",
+					"class": "DepictionTableTextView"
+				},								
+				{
+					"title": "依赖源",
+					"text": "repo.packix.com",
+					"class": "DepictionTableTextView"
+				},								
 				{
 					"title": "降级旧版",
 					"action": "https://github.com/lzsxcl/repo/tree/main/debs",
