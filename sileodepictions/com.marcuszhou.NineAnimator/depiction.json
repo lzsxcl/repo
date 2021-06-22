@@ -111,9 +111,42 @@
 					"markdown": "\t\n\u2022 对横条电池开放更多的调整",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
-				},				
+				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">2021 06.22</small>",
+					"title": "5.0-5.6",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 焦点消息推送、横条电池、透色、悬浮网速、触摸点、新的电池百分比、手电提示图标、壁纸模糊、锁屏充电magsafe、双卡助手、条件性的face设备快速解锁方案、按键手电筒、右侧滚动条颜色、视频横屏提示按钮",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "3.0-4.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 右侧返回、Dock背景壁纸、ipad拖拽、光线传感器、隐私空间加密、h2Arc手势、emoji天气、微信助手、电话帮手、更舒适的动画、上滑切换输入法、后台一键清理",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0-2.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 touch设备防手势、禁用手势、手电等功能",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},																						
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2021.06.22</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
