@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/Banners/Darkify.png",
+        "title": "Darkify",
+        "package": "com.struggling.darkify",
+        "hideShadow": false
+    }
+  ]
+}

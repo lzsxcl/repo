@@ -1,0 +1,169 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/Banners/nineanim.jpg",
+	"tintColor": "#8c10ba",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Featured Animes",
+							"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_1.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_1.png"
+						},
+						{
+							"accessibilityText": "Recently Viewed",
+							"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_2.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_2.png"
+						},
+						{
+							"accessibilityText": "Search",
+							"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_3.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_3.png"
+						},
+						{
+							"accessibilityText": "Search Results",
+							"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_4.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_4.png"
+						},
+						{
+							"accessibilityText": "Choose Episodes",
+							"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_5.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_5.png"
+						},
+						{
+							"accessibilityText": "Chromecast",
+							"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_6.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_6.png"
+						}
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Featured Animes",
+								"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_7.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_7.png"
+							},
+							{
+								"accessibilityText": "Picture in Picture",
+								"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_8.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_8.png"
+							},
+							{
+								"accessibilityText": "Recently Viewed",
+								"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_2.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_2.png"
+							},
+							{
+								"accessibilityText": "Search",
+								"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_3.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_3.png"
+							},
+							{
+								"accessibilityText": "Search Results",
+								"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_4.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_4.png"
+							},
+							{
+								"accessibilityText": "Choose Episodes",
+								"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_5.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_5.png"
+							},
+							{
+								"accessibilityText": "Chromecast",
+								"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_6.png?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_6.png"
+							}
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## NineAnimator\nA simple yet elegant way of waching anime on your favorite anime website.\nNineAnimator is a free and open source anime watching app for iOS."
+				},
+				{
+					"title": "Check out the source code here!",
+					"action": "https://github.com/SuperMarcus/NineAnimator",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0.3",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "4/5/19",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "iOS 11.2 to 12.1.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Marcus Zhou",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/StrugglingDoge",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Update to latest version of NineAnimator.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/5/19</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

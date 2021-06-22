@@ -1,0 +1,25 @@
+<package>
+	<id>com.struggling.darkify</id>
+	<name>Darkify</name>
+	<version>0.2-2</version>
+	<compatibility>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Darkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons.</shortDescription>
+	<descriptionlist>
+		<description>Darkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons. There are over 130+ icons and counting!</description>
+		<description>I'm always taking icon requests! You can fill out a icon request form here: https://forms.gle/x38ZhSwcx3wreiUUA (copy and paste into safari)</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Showcase</description>
+			<image>s1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Adds 35+ new icons(Keep suggesting!)</change>
+	</changelog>
+	<links>
+	</links>
+</package>

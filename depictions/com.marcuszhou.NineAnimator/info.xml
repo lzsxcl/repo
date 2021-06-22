@@ -1,0 +1,62 @@
+<package>
+	<id>com.marcuszhou.NineAnimator</id>
+	<name>NineAnimator</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>A simple yet elegant way of waching anime on your favorite anime website.</shortDescription>
+	<descriptionlist>
+    <description>This tweak was created by Marcus Zhou and is open source! Check it out: https://github.com/SuperMarcus/NineAnimator </description>
+		<description>A simple yet elegant way of waching anime on your favorite anime website. NineAnimator is a free and open source anime watching app for iOS.</description>
+		<description>This application only supports iOS 11.2 and above. Also, please report any issues to the above github!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Featured Animes</description>
+			<image>screenshot_1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Recently Viewed</description>
+			<image>screenshot_2.png</image>
+		</screenshot>
+    <screenshot>
+      <description>Search</description>
+      <image>screenshot_3.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Search Results</description>
+      <image>screenshot_4.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Choose Episodes</description>
+      <image>screenshot_5.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Chromecast</description>
+      <image>screenshot_6.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Featured Animes (iPad)</description>
+      <image>screenshot_7.png</image>
+    </screenshot>
+    <screenshot>
+      <description>Picture in Picture (iPad)</description>
+      <image>screenshot_8.png</image>
+    </screenshot>
+  </screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Need Help?</name>
+			<url>https://github.com/SuperMarcus/NineAnimator</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>

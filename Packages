@@ -1,0 +1,63 @@
+Package: com.struggling.darkify
+Version: 0.2-2
+Section: Themes
+Maintainer: StrugglingDoge
+Architecture: iphoneos-arm
+Filename: ./debs/com.struggling.darkify.deb
+Size: 4536920
+MD5sum: e7afb25b6099249cb94182f36bd132bb
+SHA1: 0367b46511be3112133011c9730d311d08ad79e6
+SHA256: edcf94979c64c1dbaa1e56b181afdf26be4083f8aed62b4761b75cc480c46ac7
+Description: Darkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons.
+Name: Darkify
+Author: StrugglingDoge
+SileoDepiction: https://lzsxcl.github.io/repo/sileodepictions/com.struggling.darkify/depiction.json
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=com.struggling.darkify
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/gh-pages/assets/TweakIcons/darkifyicon.png
+
+Package: com.marcuszhou.NineAnimator
+Version: 1.0.3
+Section: Mutlimedia
+Maintainer: StrugglingDoge
+Depends: firmware (>=11.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.marcuszhou.NineAnimator.deb
+Size: 99002536
+MD5sum: fb6c906d427ac2a77ec23c5b5788384e
+SHA1: f60799af639f7562892c62d446e085b752f28f91
+SHA256: 2e6790f311c8b7d9930220625c3e3aa6260ec2e7a63cc94635a7e6ae02d7b376
+Description: A simple yet elegant way of waching anime on your favorite anime website. NineAnimator is a free and open source anime watching app for iOS. Currently it supports 9anime.ru and masterani.me.
+Name: NineAnimator
+Author: Marcus Zhou
+SileoDepiction: https://lzsxcl.github.io/repo/sileodepictions/com.marcuszhou.NineAnimator/depiction.json
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=com.marcuszhou.NineAnimator
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/gh-pages/assets/TweakIcons/nineanimpic.jpg
+
+Package: xc.lzsxcl.h2
+Version: 5.7
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 3408
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker
+Filename: ./debs/xc.lzsxcl.h2.deb
+Size: 613108
+MD5sum: 83d22ff0fb1b519a736b543d73d1a95d
+SHA1: 1d2a86adfe86e8fd145b1ff79b6d248e3375c56e
+SHA256: 25cd1f672b5d654c40c1f3241c2e74df052efc43fd85021cc54a8a943b3010b7
+Section: Tweaks
+Description: 💌稳定版 💌焦点推送 💌隐私空间应用加密 💌防误触手势 💌右侧返回手势 💌h2Arc
+ 💌快速解锁条件 💌状态栏自定义 💌网速 💌天气 💌触摸点
+ 💌免密码注销 💌上滑切换输入法 💌后台自定义
+ 💌后台一键清理 💌锁屏自定义  💌快捷按压
+ 💌电话帮手 💌微信助手 💌应用键盘高度
+ 💌舒适动画 💌图标隐藏等一系列超实用功能
+ 无论在face设备还是touch设备上，h2都是北半球最好用的手势
+ 更是一把无情且强大的猪肉刀。
+ 全面兼容iOS(13-14),全面兼容iphone（6s-12pro max）
+ 确保使用官方依赖，劫持可能会导致插件部分功能异常。依赖源repo.packix.com
+ 文字提示依赖libCSPerferences 要求版本小于等于1.1.6
+Author: lzsxcl
+Name: h2
+SileoDepiction: https://lzsxcl.github.io/repo/sileodepictions/com.marcuszhou.NineAnimator/depiction.json
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=com.marcuszhou.NineAnimator
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/gh-pages/assets/TweakIcons/nineanimpic.jpg
