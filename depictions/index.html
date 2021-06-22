@@ -73,7 +73,7 @@
 					$("#descriptionList").append(
 						$("<a class='link-item list-group-item'>")
 							.attr("href","screenshots.html?p="+bundleid)
-							.text("Screenshots")
+							.text("预览图")
 					);
 				}
 			}
@@ -97,7 +97,7 @@
                     $("#changesList").append(
                         $("<a class='link-item list-group-item'>")
                             .attr("href","changelog.html?p="+bundleid)
-                            .text("Full Changelog")
+                            .text("查看日志")
                     );
                 }
             }
@@ -170,14 +170,14 @@
 	</div>
 
 	<div class="container">
-		<h5>DESCRIPTION</h5>
+		<h5>基础描述</h5>
 		<ul id="descriptionList" class="list-group">
 			<li id="screenshotsLink" />
 		</ul>
 	</div>
 
 	<div class="container">
-		<h5>IN THIS VERSION <span id="versionBadge" class="badge" /></h5>
+		<h5>最新版 <span id="versionBadge" class="badge" /></h5>
 		<ul id="changesList" class="list-group">
 			<li id="changelogLink" />
 		</ul>
