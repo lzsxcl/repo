@@ -32,23 +32,26 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 核心功能\n目前源正在升级维护中，期间可能影响更新下载。耐心等待"
+					"markdown": "## 核心功能\n包罗万象的系统全方位调整、焦点推送、隐私空间应用加密、防误触/右侧返回手势手势、快速解锁条件、状态栏dock自定义等等 依赖源：repo.packix.com"
 				},
 				{
-					"title": "在此点击购买或插件内购买",
+					"title": "获取授权",
 					"action": "https://dwz.cn/wdg6IEnw",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
-
-
 				{
 					"title": "开发者",
 					"text": "lzsxcl",
 					"class": "DepictionTableTextView"
 				},
+				{
+					"title": "兼容",
+					"text": "iOS 13.0 - 14.x",
+					"class": "DepictionTableTextView"
+				},				
 				{
 					"title": "降级旧版",
 					"action": "https://github.com/lzsxcl/repo/tree/main/debs",
@@ -80,7 +83,12 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/5/19</small>",
+					"markdown": "\t\n\u2022 对横条电池开放更多的调整",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">2021 06.22</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
