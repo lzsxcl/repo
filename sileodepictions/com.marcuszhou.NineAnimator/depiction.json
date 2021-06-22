@@ -57,7 +57,13 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 核心功能\n包罗万象的系统全方位调整、焦点推送、隐私空间应用加密、防误触/右侧返回手势手势、快速解锁条件、状态栏dock自定义等等 依赖源：repo.packix.com"
+					"markdown": "## 核心功能\n包罗万象的系统全方位调整、焦点推送、隐私空间应用加密、防误触/右侧返回手势手势、条件性的face设备快速解锁方案、横条电池、透色、h2Arc手势、状态栏dock自定义等等，功能太多不一一阐述"
+				},
+
+				{
+					"title": "依赖源",
+					"text": "repo.packix.com",
+					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "获取授权",
