@@ -480,10 +480,10 @@ Maintainer: lzsxcl
 Installed-Size: 3428
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker
 Filename: ./debs/xc.lzsxcl.h2_5.7_iphoneos-arm.deb
-Size: 614558
-MD5sum: 47b22e4941aac50fb16a8f521a759b56
-SHA1: 254cbccb590e0987241fffe3c795d262388d69ba
-SHA256: 61ef6af8645848f39b89f4e0738ba5be510830a4cb2968b310acce51bf968d34
+Size: 619092
+MD5sum: 3af7a8d6e0f280c7edfd3cdc19fa3663
+SHA1: 95e58536216d5d1adea7c67ea24bbb31b3751bf6
+SHA256: 8958aedea0440a5c911b39719306074e0e923314fc9139668c7cee4c7684f1bd
 Section: Tweaks
 Description: 💌稳定版 💌焦点推送 💌隐私空间应用加密 💌防误触手势 💌右侧返回手势 💌h2Arc
  💌快速解锁条件 💌状态栏自定义 💌网速 💌天气 💌触摸点
@@ -497,9 +497,9 @@ Description: 💌稳定版 💌焦点推送 💌隐私空间应用加密 💌防
  确保使用官方依赖，劫持可能会导致插件部分功能异常。依赖源repo.packix.com
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=com.marcuszhou.NineAnimator
-Icon: https://lzsxcl.github.io/repo/assets/TweakIcons/nineanimpic.jpg
+Icon: https://github.com/lzsxcl/repo/blob/main/assets/TweakIcons/nineanimpic.jpg
 Name: h2
-Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/com.marcuszhou.NineAnimator/depiction.json
+Sileodepiction: https://github.com/lzsxcl/repo/blob/main/sileodepictions/com.marcuszhou.NineAnimator/depiction.json
 
 Package: xc.lzsxcl.h2braille.iOS14
 Version: 1.0
