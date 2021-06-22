@@ -11,19 +11,44 @@
 					"itemSize": "{160, 275.41333333333336}",
 					"screenshots": [
 						{
-							"accessibilityText": "Choose Episodes",
-							"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_5.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_5.png"
+							"accessibilityText": "Featured Animes",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_1.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_1.png"
 						},
+						{
+							"accessibilityText": "Recently Viewed",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_2.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_2.png"
+						},
+						{
+							"accessibilityText": "Search",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_3.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_3.png"
+						},
+						{
+							"accessibilityText": "Search Results",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_4.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_4.png"
+						},
+						{
+							"accessibilityText": "Choose Episodes",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_5.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_5.png"
+						},
+						{
+							"accessibilityText": "Chromecast",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_6.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_6.png"
+						},																		
 					],
 					"ipad": {
 						"itemCornerRadius": 9,
 						"itemSize": "{350, 550.8266666666667}",
 						"screenshots": [
 							{
-								"accessibilityText": "Choose Episodes",
-								"url": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_5.png?size=640",
-								"fullSizeURL": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_5.png"
+								"accessibilityText": "Featured Animes",
+								"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_1.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_1.png"
 							},
 						],
 						"class": "DepictionScreenshotView"
