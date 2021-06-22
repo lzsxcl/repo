@@ -8,15 +8,18 @@
 	</changes>
 
 	<changes>
-		<version>5.6</version>
-		<change>1.修复部分新用户激活后功能可能不生效的问题
-2.透色[实用功能分类]
-3.隐藏桌面翻页小圆点[桌面分类]
-4.face设备新增静音左上角提示[状态栏图标分类]
-5.修改滚动条颜色的选择菜单，移除对libcolorpicker的依赖
-6.横条电池[手势分类]
-</change>
+		<version>5.0-5.6</version>
+		<change>焦点消息推送、横条电池、透色、悬浮网速、触摸点、新的电池百分比、手电提示图标、壁纸模糊、锁屏充电magsafe、双卡助手、条件性的face设备快速解锁方案、按键手电筒、右侧滚动条颜色、视频横屏提示按钮</change>
 	</changes>
 
+	<changes>
+		<version>3.0-4.0</version>
+		<change>右侧返回、Dock背景壁纸、ipad拖拽、光线传感器、隐私空间加密、h2Arc手势、emoji天气、微信助手、电话帮手、更舒适的动画、上滑切换输入法、后台一键清理</change>
+	</changes>
+
+	<changes>
+		<version>1.0-2.0</version>
+		<change>touch设备防误触手势、禁用手势、手电等功能</change>
+	</changes>
 
 </changelog>

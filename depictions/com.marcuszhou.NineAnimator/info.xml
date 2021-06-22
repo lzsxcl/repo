@@ -1,19 +1,24 @@
 <package>
 	<id>com.marcuszhou.NineAnimator</id>
 	<name>NineAnimator</name>
-	<version>1.0.3</version>
+	<version>5.7.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.2</miniOS>
+			<miniOS>13.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 	</dependencies>
-	<shortDescription>A simple yet elegant way of waching anime on your favorite anime website.</shortDescription>
+	<shortDescription></shortDescription>
 	<descriptionlist>
-    <description>This tweak was created by Marcus Zhou and is open source! Check it out: https://github.com/SuperMarcus/NineAnimator </description>
-		<description>A simple yet elegant way of waching anime on your favorite anime website. NineAnimator is a free and open source anime watching app for iOS.</description>
-		<description>This application only supports iOS 11.2 and above. Also, please report any issues to the above github!</description>
+    <description>包罗万象的系统全方位调整、焦点推送、隐私空间应用加密、防误触/右侧返回手势手势、条件性的face设备快速解锁方案、横条电池、透色、h2Arc手势、状态栏dock自定义等等，功能太多不一一阐述</description>
+
+		<description>兼容：iOS (13.0 - 14.x)</description>
+		<description>支持设备：6s-12pm</description>
+		<description>依赖源：repo.packix.com</description>
+		<description>授权限期：一机一码，永久授权</description>
+		<description>支持设备：6s-12pm</description>
+		<description>我并没有对cydia做过多的描述，详见下方截图，或插件内查看更新日志，sileo则有很好的描述简介</description>		
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -40,23 +45,8 @@
       <description>Chromecast</description>
       <image>screenshot_6.png</image>
     </screenshot>
-    <screenshot>
-      <description>Featured Animes (iPad)</description>
-      <image>screenshot_7.png</image>
-    </screenshot>
-    <screenshot>
-      <description>Picture in Picture (iPad)</description>
-      <image>screenshot_8.png</image>
-    </screenshot>
   </screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>更新日志</change>
 	</changelog>
-	<links>
-		<link>
-			<name>Need Help?</name>
-			<url>https://github.com/SuperMarcus/NineAnimator</url>
-			<iconclass>fa fa-github</iconclass>
-		</link>
-	</links>
 </package>

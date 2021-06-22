@@ -161,7 +161,7 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 touch设备防手势、禁用手势、手电等功能",
+					"markdown": "\t\n\u2022 touch设备防误触手势、禁用手势、手电等功能",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},																						
