@@ -1,10 +1,10 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/lzsxcl/repo/main/assets/Banners/nineanim.jpg",
-	"tintColor": "#89c997",
+	"headerImage": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/Banners/nineanim.jpg",
+	"tintColor": "#8c10ba",
 	"tabs": [
 		{
-			"tabname": "简介",
+			"tabname": "Details",
 			"views": [
 				{
 					"itemCornerRadius": 6,
@@ -87,31 +87,48 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 核心功能\n目前源正在升级维护中，期间可能影响更新下载。耐心等待"
-				},				
+					"markdown": "## NineAnimator\nA simple yet elegant way of waching anime on your favorite anime website.\nNineAnimator is a free and open source anime watching app for iOS."
+				},
 				{
-					"title": "在此点击购买或插件内购买",
-					"action": "https://dwz.cn/wdg6IEnw",
+					"title": "Check out the source code here!",
+					"action": "https://github.com/SuperMarcus/NineAnimator",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
-
 				{
-					"title": "兼容",
-					"text": "iOS 13.0 - 14.x",
-					"class": "DepictionTableTextView"
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
 				},
-
 				{
-					"title": "开发者",
-					"text": "lzsxcl",
+					"title": "Version",
+					"text": "1.0.3",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "降级旧版",
-					"action": "https://github.com/lzsxcl/repo/tree/main/debs",
+					"title": "Released",
+					"text": "4/5/19",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "iOS 11.2 to 12.1.2",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Marcus Zhou",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/StrugglingDoge",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -126,41 +143,24 @@
 			"class": "DepictionStackView"
 		},
 		{
-			"tabname": "更新日志",
+			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "5.7",
+					"title": "1.0.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 1.对横条电池开放更多的调整",
-					"markdown": "\t\n\u2022 2.适配最新的libCSPerferences依赖，向下兼容1.1.6 解决部分用户因为依赖过新一直没有子标签提示的痛苦",					
+					"markdown": "\t\n\u2022 Update to latest version of NineAnimator.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">2021 06/21</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/5/19</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
-				{
-					"title": "5.6",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "\t\n\u2022 暂时懒得更新",				
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">2021</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				}				
 			],
 			"class": "DepictionStackView"
 		}
