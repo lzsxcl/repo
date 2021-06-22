@@ -8,12 +8,6 @@
         "title": "h2",
         "package": "com.marcuszhou.NineAnimator",
         "hideShadow": false
-    }
-    {
-      "url": "https://raw.githubusercontent.com/lzsxcl/repo/main/assets/Banners/Darkify.png",
-      "title": "cc",
-      "package": "com.marcuszhou.NineAnimator",
-      "hideShadow": false
-  }    
+    }    
   ]
 }
