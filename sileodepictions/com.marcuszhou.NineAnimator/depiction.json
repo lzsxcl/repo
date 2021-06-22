@@ -87,11 +87,11 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## h2\n源维护中"
+					"markdown": "## 核心功能\n目前源正在升级维护中，期间可能影响更新下载。耐心等待"
 				},
 				{
-					"title": "Check out the source code here!",
-					"action": "https://github.com/SuperMarcus/NineAnimator",
+					"title": "购买h2授权码",
+					"action": "https://dwz.cn/wdg6IEnw",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -113,8 +113,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Github",
-					"action": "https://github.com/StrugglingDoge",
+					"title": "降级旧版",
+					"action": "https://github.com/lzsxcl/repo/tree/main/debs",
 					"class": "DepictionTableButtonView"
 				},
 				{
