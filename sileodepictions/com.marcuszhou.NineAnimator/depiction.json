@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/Banners/nineanim.jpg",
+	"headerImage": "https://github.com/lzsxcl/repo/blob/main/assets/Banners/nineanim.jpg",
 	"tintColor": "#8c10ba",
 	"tabs": [
 		{
@@ -90,17 +90,18 @@
 					"markdown": "## 核心功能\n目前源正在升级维护中，期间可能影响更新下载。耐心等待"
 				},
 				{
-					"title": "购买h2授权码",
+					"title": "关于授权码",
+					"class": "DepictionHeaderView"
+				},				
+				{
+					"title": "在此点击购买或插件内购买",
 					"action": "https://dwz.cn/wdg6IEnw",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
-				{
-					"title": "Latest Version",
-					"class": "DepictionHeaderView"
-				},
+
 				{
 					"title": "兼容",
 					"text": "iOS 13.0 - 14.x",
@@ -129,24 +130,41 @@
 			"class": "DepictionStackView"
 		},
 		{
-			"tabname": "Changelog",
+			"tabname": "更新日志",
 			"views": [
 				{
-					"title": "1.0.3",
+					"title": "5.7",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update to latest version of NineAnimator.",
+					"markdown": "\t\n\u2022 1.对横条电池开放更多的调整",
+					"markdown": "\t\n\u2022 2.适配最新的libCSPerferences依赖，向下兼容1.1.6 解决部分用户因为依赖过新一直没有子标签提示的痛苦",					
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/5/19</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">2021 06/21</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
+				{
+					"title": "5.6",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 暂时懒得更新",				
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">2021</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}				
 			],
 			"class": "DepictionStackView"
 		}
