@@ -4,7 +4,7 @@
 	"tintColor": "#8c10ba",
 	"tabs": [
 		{
-			"tabname": "Details",
+			"tabname": "简介",
 			"views": [
 				{
 					"itemCornerRadius": 6,
@@ -87,7 +87,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## NineAnimator\nA simple yet elegant way of waching anime on your favorite anime website.\nNineAnimator is a free and open source anime watching app for iOS."
+					"markdown": "## h2\n源维护中"
 				},
 				{
 					"title": "Check out the source code here!",
@@ -102,28 +102,14 @@
 					"class": "DepictionHeaderView"
 				},
 				{
-					"title": "Version",
-					"text": "1.0.3",
+					"title": "兼容",
+					"text": "iOS 13.0 - 14.x",
 					"class": "DepictionTableTextView"
 				},
+
 				{
-					"title": "Released",
-					"text": "4/5/19",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Compatibility",
-					"text": "iOS 11.2 to 12.1.2",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Price",
-					"text": "FREE",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Developer",
-					"text": "Marcus Zhou",
+					"title": "开发者",
+					"text": "lzsxcl",
 					"class": "DepictionTableTextView"
 				},
 				{
