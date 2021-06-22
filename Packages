@@ -74,6 +74,25 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/ninea
 Name: h2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/com.marcuszhou.NineAnimator/depiction.json
 
+Package: xc.lzsxcl.h2
+Version: 5.7.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 3428
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker
+Filename: ./debs/xc.lzsxcl.h2_5.7.1_iphoneos-arm.deb
+Size: 614468
+MD5sum: 224e4eeead1607e96e80a6ecd6fc83ce
+SHA1: 2f7dfced841834ac0f2dfb04441ecf9fb9ef99bd
+SHA256: 605d157c5ccc10fa4ddc774aa0b7577611a1d5282d97f1d145bc6257444069de
+Section: Tweaks
+Description: 一款功能包罗万象的轻量插件
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=com.marcuszhou.NineAnimator
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/nineanimpic.jpg
+Name: h2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/com.marcuszhou.NineAnimator/depiction.json
+
 Package: xc.lzsxcl.h2braille.iOS14
 Version: 1.0
 Architecture: iphoneos-arm
