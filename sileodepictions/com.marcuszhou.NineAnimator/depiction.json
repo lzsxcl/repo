@@ -32,48 +32,26 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## NineAnimator\nA simple yet elegant way of waching anime on your favorite anime website.\nNineAnimator is a free and open source anime watching app for iOS."
+					"markdown": "## 核心功能\n目前源正在升级维护中，期间可能影响更新下载。耐心等待"
 				},
 				{
-					"title": "Check out the source code here!",
-					"action": "https://github.com/SuperMarcus/NineAnimator",
+					"title": "在此点击购买或插件内购买",
+					"action": "https://dwz.cn/wdg6IEnw",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
+
+
 				{
-					"title": "Latest Version",
-					"class": "DepictionHeaderView"
-				},
-				{
-					"title": "Version",
-					"text": "1.0.3",
+					"title": "开发者",
+					"text": "lzsxcl",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Released",
-					"text": "4/5/19",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Compatibility",
-					"text": "iOS 11.2 to 12.1.2",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Price",
-					"text": "FREE",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Developer",
-					"text": "Marcus Zhou",
-					"class": "DepictionTableTextView"
-				},
-				{
-					"title": "Github",
-					"action": "https://github.com/StrugglingDoge",
+					"title": "降级旧版",
+					"action": "https://github.com/lzsxcl/repo/tree/main/debs",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -91,13 +69,13 @@
 			"tabname": "更新日志",
 			"views": [
 				{
-					"title": "1.0.3",
+					"title": "5.7",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update to latest version of NineAnimator.",
+					"markdown": "\t\n\u2022 适配最新的libCSPerferences依赖，向下兼容1.1.6 解决部分用户因为依赖过新一直没有子标签提示的痛苦",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
