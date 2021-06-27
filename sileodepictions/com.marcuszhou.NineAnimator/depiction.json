@@ -117,6 +117,32 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "5.9",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 移除face设备独立时间格式，更改为通用格式",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 新增第三个时间格式，并支持换行显示",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复一些问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 锁屏未读通知长显示",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},													
+				{
 					"title": "5.8",
 					"useBoldText": true,
 					"useBottomMargin": true,
