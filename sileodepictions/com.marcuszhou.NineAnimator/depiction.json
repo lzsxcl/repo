@@ -117,6 +117,27 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "5.9.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 分离双击息屏",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复在5.9版本中运营商会出现过空问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复锁屏手电在touch设备意外偏移问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
 					"title": "5.9",
 					"useBoldText": true,
 					"useBottomMargin": true,
