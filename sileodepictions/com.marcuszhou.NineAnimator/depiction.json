@@ -117,6 +117,47 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "5.9.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 加大悬浮网速的宽度",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 网速前添加指示标",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 对face设备的手电提示图标开放位置调整",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 控制中心播放音乐专辑",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 建党100周年烟花特效",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 精简包体积由上版本682kb降至548kb",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 移除加密提示的表情",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "5.9.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
