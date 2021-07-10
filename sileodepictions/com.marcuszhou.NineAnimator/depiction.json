@@ -116,6 +116,33 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+
+				{
+					"title": "5.9.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 对比5.9.2 face设备加密打开速度提升300%",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 对比5.9.2 touch设备加密打开速度提升400%",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 系统识别与独立模块混合加速，务必将独立密码设置为锁屏密码",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 对比5.9.2 加密加速模块额外加成100%(发单独插件)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "5.9.2",
 					"useBoldText": true,
