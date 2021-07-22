@@ -116,7 +116,29 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+				{
+					"title": "5.9.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 加密加速模块[隐私空间]",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
 
+				{
+					"title": "5.9.3.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复独立密码设置一直提示错误的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
 				{
 					"title": "5.9.3",
 					"useBoldText": true,
@@ -327,7 +349,7 @@
 					"class": "DepictionMarkdownView"
 				},																						
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2021.06.25</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2021.07.22</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
