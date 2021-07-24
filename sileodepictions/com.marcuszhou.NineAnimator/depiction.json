@@ -39,7 +39,12 @@
 							"accessibilityText": "Chromecast",
 							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_6.png",
 							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_6.png"
-						},																		
+						},
+						{
+							"accessibilityText": "Chromecast",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_7.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_7.png"
+						},																									
 					],
 					"ipad": {
 						"itemCornerRadius": 9,
