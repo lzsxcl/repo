@@ -44,7 +44,12 @@
 							"accessibilityText": "Chromecast",
 							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_7.png",
 							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_7.png"
-						},																									
+						},	
+						{
+							"accessibilityText": "Chromecast",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_8.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_8.png"
+						},						
 					],
 					"ipad": {
 						"itemCornerRadius": 9,
