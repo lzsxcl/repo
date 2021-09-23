@@ -67,7 +67,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 核心功能\n包罗万象的系统全方位调整、焦点推送、隐私空间应用加密、防误触/右侧返回手势手势、条件性的face设备快速解锁方案、横条电池、透色、h2Arc手势、状态栏dock自定义等等，功能太多不一一阐述"
+					"markdown": "## 核心功能\n图钉、一步、防误触/右侧返回手势手势、焦点推送、隐私空间应用加密、条件性的face设备快速解锁方案、横条电池、透色、h2Arc手势、状态栏dock自定义等等，功能太多不一一阐述"
 				},
 				{
 					"title": "获取授权码",
@@ -84,7 +84,7 @@
 				},
 				{
 					"title": "兼容",
-					"text": "iOS (13.0 - 14.x)",
+					"text": "iOS (13.0 - 14.8)",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -126,6 +126,86 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+				{
+					"title": "6.0beta",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 图钉",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 悬浮球改名一步并移动拖拽功能，悬浮球内图标放大5px",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 双击息屏改为三击息屏(锁屏界面)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 拍照与截图静音",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "5.9.7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 解决悬浮球在未开启时与猎户座orion蓝牙电池信息冲突导致的桌面无法点击滑动问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 电话助手不锁定悬浮网速可共存",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 手势分类中新增桌面附加手势",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"title": "5.9.6",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 桌面设置中新增功能，可以设置4张壁纸",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 悬浮球新增些内置图标",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 优化设置界面流畅度",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"title": "5.9.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 解决长时间锁屏，时间有短暂异步的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+
 				{
 					"title": "5.9.4",
 					"useBoldText": true,
