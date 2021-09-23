@@ -43,7 +43,7 @@
 						{
 							"accessibilityText": "Chromecast",
 							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_7.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_7.png"
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_7.png"
 						},																									
 					],
 					"ipad": {
@@ -52,8 +52,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Featured Animes",
-								"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_1.png",
-								"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/com.marcuszhou.NineAnimator/screenshots/screenshot_1.png"
+								"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_1.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_1.png"
 							},
 						],
 						"class": "DepictionScreenshotView"
