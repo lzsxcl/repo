@@ -71,16 +71,17 @@ Maintainer: lzsxcl
 Installed-Size: 3808
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker
 Filename: ./debs/xc.lzsxcl.h2_6.0_iphoneos-arm.deb
-Size: 637130
-MD5sum: 1bd4fb2959ba862af9ffa343b381e4e7
-SHA1: 19fda141eb7ba7980adaf01f5bb10a5a8b7960ae
-SHA256: 879a5e7e045bbf30e3af0a249d8a85469ed98943e94d6a95400badf487189a18
+Size: 636076
+MD5sum: c39d47e4c46bd23dfe60ae8bb4fab227
+SHA1: 6a345790998c24beb43fde17c578c0df801e307e
+SHA256: 1834ab3f53e13fef36c67ebb81348aa793d4da2ec96d152f54ae536c132d99fe
 Section: Tweaks
 Description: 简单、易用、好用
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.h2
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/nineanimpic.jpg
 Name: h2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
 
 Package: xc.lzsxcl.h2braille.iOS14
 Version: 1.0
