@@ -178,6 +178,25 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/ninea
 Name: h2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
 
+Package: xc.lzsxcl.h2
+Version: 6.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 5412
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/xc.lzsxcl.h2_6.2_iphoneos-arm.deb
+Size: 860552
+MD5sum: 1ad28793fda8ec07225cbfd9149b632c
+SHA1: 1b234235f3cf3cbccd7ba1d43efb3def143e4031
+SHA256: 66bf88ae71eaaad177d65d262f1415dd259b015448ea97ccd5b8cd81df4d8789
+Section: Tweaks
+Description: 打破物理限制,开启全新交互形式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.h2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/nineanimpic.jpg
+Name: h2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
+
 Package: xc.lzsxcl.h2braille.iOS14
 Version: 1.0
 Architecture: iphoneos-arm
@@ -191,6 +210,22 @@ SHA256: 5bad964e6f9616dbb6829df3f614105ac2826b68912f9ec2f58a9864662ee69b
 Description: h2时间格式盲文辅助包_仅在iOS14上测试
 Author: lzsxcl
 Name: h2braille
+
+Package: xc.lzsxcl.h2love
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl & PoomSmart
+Installed-Size: 572
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
+Filename: ./debs/xc.lzsxcl.h2love_1.1_iphoneos-arm.deb
+Size: 28312
+MD5sum: 70436dc4a604ea9489d46fccb76da39f
+SHA1: cc086154219abc9cdab7a13f1a10a54074aff743
+SHA256: 6df7cebdba9b273b30d94545e12c7f35d757b3362dc6719af06a61f544293019
+Section: Tweaks
+Description: 自用插件，25岁以下请无下载此插件
+Author: lzsxcl
+Name: h2love
 
 Package: xc.lzsxcl.oneplus
 Version: 0.1
