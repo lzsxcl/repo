@@ -197,6 +197,25 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/ninea
 Name: h2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
 
+Package: xc.lzsxcl.h2
+Version: 6.3
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 5612
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/xc.lzsxcl.h2_6.3_iphoneos-arm.deb
+Size: 874890
+MD5sum: 0ca95a53f946e179d5489b9636983a1e
+SHA1: 36e1ff96f534a248045cadb4299b9ba1998669e6
+SHA256: 5a1c8a71c176cccc7f585a93be5b9d0e192ac3c682e9070461e5383bfed9586a
+Section: Tweaks
+Description: 打破物理限制,开启全新交互形式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.h2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/nineanimpic.jpg
+Name: h2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
+
 Package: xc.lzsxcl.h2braille.iOS14
 Version: 1.0
 Architecture: iphoneos-arm
@@ -212,34 +231,34 @@ Author: lzsxcl
 Name: h2braille
 
 Package: xc.lzsxcl.h2love
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: lzsxcl & PoomSmart
 Installed-Size: 572
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
-Filename: ./debs/xc.lzsxcl.h2love_1.1_iphoneos-arm.deb
-Size: 28312
-MD5sum: 70436dc4a604ea9489d46fccb76da39f
-SHA1: cc086154219abc9cdab7a13f1a10a54074aff743
-SHA256: 6df7cebdba9b273b30d94545e12c7f35d757b3362dc6719af06a61f544293019
+Filename: ./debs/xc.lzsxcl.h2love_1.2_iphoneos-arm.deb
+Size: 28306
+MD5sum: cfe5a562a933777b496a8c553f7b3284
+SHA1: 8ea7cf8eda1e5f56808afb6743a03da650c09996
+SHA256: 98be752ec5427aede0a6800e8a6b623416f9c81054b7f1be8f201175fbf17d68
 Section: Tweaks
-Description: 自用插件，25岁以下请无下载此插件
+Description: 用温暖的眼光去看待世间百态
 Author: lzsxcl
 Name: h2love
 
-Package: xc.lzsxcl.oneplus
-Version: 0.1
+Package: xc.lzsxcl.libh2sona
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
-Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/xc.lzsxcl.oneplus_0.1_iphoneos-arm.deb
-Size: 4048722
-MD5sum: 707d52dc806f33fa9224e1db588e791c
-SHA1: ecae570942fb35d6a085cb193ff19fcfd228001e
-SHA256: 658df21381a081c64e8d7b3ec9f7646a79c427dc5d1ff0d9201cc1cd74f5eb29
-Section: Tweaks
-Description: 漂亮的一加手机注销动画（iOS13-14）
-Author: lzsxcl && 乌云
-Icon: file:///Applications/Cydia.app/Sections/Toys.png
-Name: 一加手机注销动画
+Installed-Size: 260
+Depends: mobilesubstrate, com.ryannair05.audiosnapshotserver
+Filename: ./debs/xc.lzsxcl.libh2sona_0.0.1_iphoneos-arm.deb
+Size: 23150
+MD5sum: f39bdef0473cfbe53010c889ff0f4254
+SHA1: ccc4f411bab7becb718af2ffc01c1ab2414eea13
+SHA256: 9cccda66a76fdde86f564cfbccb1c34fb1528f21688bf0be6b6a7cfa221ff3d2
+Section: System
+Description: h2信号音频播放器依赖
+Author: lzsxcl
+Name: libh2sona
 
