@@ -261,10 +261,10 @@ Maintainer: lzsxcl
 Installed-Size: 5968
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
 Filename: ./debs/xc.lzsxcl.h2_6.5_iphoneos-arm.deb
-Size: 816792
-MD5sum: e3aad19706e950821652a44e299e6ce6
-SHA1: 8e1b0f1e1d85fac46298e329a8b31a6d0114b2df
-SHA256: fcab518bf7ba99a9e7cc01740cca9dd00a6a86a8f6d4664370be8ddcf975a32b
+Size: 816356
+MD5sum: 929470b71a7909d6c574abe3b1c50634
+SHA1: 67c85cc121ef3fd6a97fba250115b6df4d5149f5
+SHA256: 4c10523d9042834d65367354cd17a0cbcaf536f16e90fea6c5902a32d5ccd462
 Section: Tweaks
 Description: 打破物理限制,开启全新交互形式
 Author: lzsxcl
