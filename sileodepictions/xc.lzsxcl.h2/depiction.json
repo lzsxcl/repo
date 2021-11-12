@@ -97,11 +97,7 @@
 					"text": "一机一码，永久授权",
 					"class": "DepictionTableTextView"
 				},				
-				{
-					"title": "耗电情况",
-					"text": "低耗电",
-					"class": "DepictionTableTextView"
-				},								
+				
 				{
 					"title": "依赖源",
 					"text": "repo.packix.com",
@@ -126,6 +122,409 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+				
+				
+				{
+					"title": 6.5.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				
+				{
+					"markdown": "\t\n\u2022 双指下拉新增震动",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 控制中心新增背景模糊度调整 (动画/控制中心分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 备份/还原/重置插件",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 锁屏与闹钟应用倒计时 (实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+					
+				
+				{
+					"title": 6.5.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},					
+				
+				
+				{
+					"markdown": "\t\n\u2022 锁屏时间对齐与锁头支持调整位置 (锁屏自定义分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				{
+					"markdown": "\t\n\u2022 锁屏自定义升级6.0 息屏显示",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				{
+					"markdown": "\t\n\u2022 焦点推送升级2.0 锁屏勿扰图标多方位显示",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 移除所有滑动进度条改为键盘输入",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+				{
+					"markdown": "\t\n\u2022 移除框选择，改为勾选",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 优化一些小细节",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				{
+					"markdown": "\t\n\u2022 修改一些前些版本可能没有默认关闭的开关",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+
+				{
+					"title": "6.4.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				
+				
+				{
+					"markdown": "\t\n\u2022 修复h2框架更改系统高亮色问题,同时扼杀其他插件妄想修改系统高亮色的问题 (设置调整分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+				{
+					"markdown": "\t\n\u2022 修复状态栏电池中数字电池颜色问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				{
+					"markdown": "\t\n\u2022 便捷访问高度调整 (位置调整分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+				{
+					"markdown": "\t\n\u2022 移除关联依赖libimagepicker，考虑到bigboss无此依赖，并为个别用户审美考虑，移除dock背景可卸载依赖",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+				{
+					"markdown": "\t\n\u2022 移除口罩提示",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+				{
+					"markdown": "\t\n\u2022 移除一步悬浮球",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+					{
+					"markdown": "\t\n\u2022 移除双卡助手",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				
+				{
+					"markdown": "\t\n\u2022 此次调整还是出于实用去考虑，而不是单单的为添加功能而去添加",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				{
+					"markdown": "\t\n\u2022 修复信号音频首次启动白色问题，需更新依赖0.0.2版本",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+
+				
+				
+					{
+					"title": "6.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},			
+				
+				
+				{
+					"markdown": "\t\n\u2022 信号音频Airpods增压",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+				
+				{
+					"markdown": "\t\n\u2022 通知收纳 (锁屏自定义分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+				{
+					"markdown": "\t\n\u2022 摇一摇删除些不实用的功能",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				
+				
+				
+				
+				
+					{
+					"title": "6.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},			
+				
+				
+				{
+					"markdown": "\t\n\u2022 信号音频",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+				
+				{
+					"markdown": "\t\n\u2022 优化网速算法，更精准",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+				{
+					"markdown": "\t\n\u2022 修复一些已知问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+				
+					{
+					"title": "6.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},			
+				
+				
+				{
+					"markdown": "\t\n\u2022 屏幕朝下时锁屏屏幕-可设置秒数 (锁屏自定义分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+				
+				{
+					"markdown": "\t\n\u2022 新冠口罩锁屏提示 (锁屏自定义分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+				{
+					"markdown": "\t\n\u2022 face id 扫描重试 (锁屏自定义分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+					{
+					"markdown": "\t\n\u2022 优化了分类调整和功能开关调整",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+				{
+					"markdown": "\t\n\u2022 取消未授权用户的提示",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+
+				
+						{
+					"title": "6.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},			
+				
+				
+				{
+					"markdown": "\t\n\u2022 摇一摇 (实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+				
+				{
+					"markdown": "\t\n\u2022 旧小组件圆角适配(实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+				{
+					"markdown": "\t\n\u2022 点击状态栏看电量(实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+					{
+					"markdown": "\t\n\u2022 网速升级v2.0实时自适应网速颜色",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+				{
+					"markdown": "\t\n\u2022 状态栏图标新增电池样式升级v5.0(状态栏图标分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				
+						{
+					"markdown": "\t\n\u2022 输入光标平滑与自定义颜色(实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+				{
+					"markdown": "\t\n\u2022 控制中心连接模块与音乐调整(动画与控制中心v2.0)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				
+						{
+					"markdown": "\t\n\u2022 屏蔽系统更新红点",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+		
+				
+							{
+					"title": "6.0-6.0.8",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},			
+				
+				
+				{
+					"markdown": "\t\n\u2022 数据VPN染色 (图标分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+				
+				{
+					"markdown": "\t\n\u2022 专注模式(新分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+				{
+					"markdown": "\t\n\u2022 控制中心新增相册加密(已隐藏的开关)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+					{
+					"markdown": "\t\n\u2022 隐藏设置内第三方应用(设置调整分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+				{
+					"markdown": "\t\n\u2022 图钉新增钉住界面",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				
+						{
+					"markdown": "\t\n\u2022 修复老机型勾选应用选择菜单时的卡顿问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},						
+				
+				{
+					"markdown": "\t\n\u2022 编辑主屏幕染色(桌面分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				
+						{
+					"markdown": "\t\n\u2022 精准的通话记录时间(实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},			
+				
+				
+						{
+					"markdown": "\t\n\u2022 便利贴",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+						{
+					"markdown": "\t\n\u2022 屏蔽系统更新红点",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+						{
+					"markdown": "\t\n\u2022 专辑音乐图标(桌面设置分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+						{
+					"markdown": "\t\n\u2022 由于体验过差，目前已移除图钉对锁屏界面的支持",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+						{
+					"markdown": "\t\n\u2022 光线传感器新增无限夜读",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				
+				
+				
+				
+				
+							
+				
 				{
 					"title": "6.0beta",
 					"useBoldText": true,
