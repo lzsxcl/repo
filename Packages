@@ -293,6 +293,25 @@ Name: h2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
 
 Package: xc.lzsxcl.h2
+Version: 6.6.11
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 6124
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/xc.lzsxcl.h2_6.6.11_iphoneos-arm.deb
+Size: 908140
+MD5sum: 4969f3662bdaad3bc0f8e2554e18439e
+SHA1: 036cc87cfcce09fd82be5641c27ba341fc913a6d
+SHA256: 78e81e12363c959b6b25afa731febb5beec552d24479a9356cc55128d3b55d06
+Section: Tweaks
+Description: 打破物理限制,开启全新交互形式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.h2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/nineanimpic.jpg
+Name: h2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
+
+Package: xc.lzsxcl.h2
 Version: 6.6.6
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
