@@ -123,7 +123,17 @@
 			"tabname": "更新日志",
 			"views": [
 				
-				
+				{
+					"title": "6.7.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 具体请查看插件内更新日志",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
 				{
 					"title": "6.5.5",
 					"useBoldText": true,
