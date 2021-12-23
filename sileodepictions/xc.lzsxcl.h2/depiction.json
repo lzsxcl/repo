@@ -173,7 +173,183 @@
 					"markdown": "\t\n\u2022 修复一些bug，并移除圆角通知中心",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
+				},	
+				{
+					"title": "6.6.11",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 新游戏手势模式(防止误触)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 功能保持不变，且锐减dylib文件",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 移除摇一摇打开手电筒",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
 				},				
+				{
+					"markdown": "\t\n\u2022 设置新增账号入口",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 给隐藏应用添加了开关，并增加使用提示",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"title": "6.6.10",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 新增隐私空间应用隐藏  (隐私空间分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 ipad隐藏后台模糊改为同时兼容隐藏原生后台模糊 (Dock与后台分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 新增文件夹打开时隐藏模糊 (实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 修改镜像分屏预设图标的大小(h2图标)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 隐私空间分类注销时新增需验证才能注销 (隐私空间分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+					{
+					"markdown": "\t\n\u2022 新增隐藏app资源库文件夹背景 (桌面调整分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增隐藏桌面文件夹背景 (实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增桌面app图标文字小写 (桌面调整分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},			
+					{
+					"markdown": "\t\n\u2022 新增桌面文件夹新增自定义底背景 (实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 镜像分屏新增点击打开关闭窗口震动，包含快捷打开 (镜像分屏分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				{
+					"title": "6.6.6-6.6.8",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2022 勿扰模式在控制中心支持自定义时间倒计时",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏支持窗口大小调整",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 镜像分屏",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 状态栏功能开关指示灯 (状态栏图标分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 时间自定义支持附加颜色",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 修复悬浮网速自定义颜色问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 移除光线传感器切换深色浅色功能，以避免硬件光线损坏导致安全模式",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 无线夜读移动到实用功能分类",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 修复勿扰图标总开关干扰了闹钟倒计时开关的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+					{
+					"markdown": "\t\n\u2022 修复勿扰图标没有受到总开关控制的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+					{
+					"markdown": "\t\n\u2022 修复全面屏在关闭总开关闹钟错位的历史遗留问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				
+				
+				{
+					"title": "6.5.8",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+					{
+					"markdown": "\t\n\u2022 锁屏勿扰图标自适应颜色",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+					{
+					"markdown": "\t\n\u2022 更换锁屏便利贴图标，并增加点击发光",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+					{
+					"markdown": "\t\n\u2022 修复一些已知问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				
+				
 				{
 					"title": "6.5.5",
 					"useBoldText": true,
