@@ -122,15 +122,55 @@
 		{
 			"tabname": "更新日志",
 			"views": [
-				
 				{
-					"title": "6.7.1",
+					"title": "6.8",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 具体请查看插件内更新日志",
+					"markdown": "\t\n\u2022 音量新增步数(实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 微信公众号上线",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏支持窗口打开时点击拉手收回拉手，长按拉手切换分屏应用 (镜像分屏分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复镜像分屏震动并分离震动开关 (镜像分屏分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 按压桌面应用拷贝应用id (实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"title": "6.7.1-6.7.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复镜像分屏的一些问题，并新增迷你悬浮",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 计算器历史新增开关",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复一些bug，并移除圆角通知中心",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},				
