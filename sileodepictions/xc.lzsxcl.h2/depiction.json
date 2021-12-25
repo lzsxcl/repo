@@ -67,7 +67,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 核心功能\n图钉、一步、防误触/右侧返回手势手势、焦点推送、隐私空间应用加密、条件性的face设备快速解锁方案、横条电池、透色、h2Arc手势、状态栏dock自定义等等，功能太多不一一阐述"
+					"markdown": "## 核心功能\n镜像分屏、游戏手势、勿扰焦点推送、右侧返回手势、touch防误触手势、隐私空间加密、h2arc手势、便利贴、状态栏调整、dock与后台调整、以及一堆实用功能，功能太多不过多阐述。具体见插件。"
 				},
 				{
 					"title": "获取授权码",
@@ -97,12 +97,7 @@
 					"text": "一机一码，永久授权",
 					"class": "DepictionTableTextView"
 				},				
-				
-				{
-					"title": "依赖源",
-					"text": "repo.packix.com",
-					"class": "DepictionTableTextView"
-				},								
+												
 				{
 					"title": "降级旧版",
 					"action": "https://github.com/lzsxcl/repo/tree/main/debs",
