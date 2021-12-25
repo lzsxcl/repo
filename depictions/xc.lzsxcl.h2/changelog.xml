@@ -1,16 +1,21 @@
 <changelog> 
  
  <changes>
-        <version>2.4.0-2.4.1</version>
+        <version>6.66-6.9</version>
         <change><![CDATA[
-            <b>NEW FEATURES:</b><br/>
-            •Added Tranzlo shortcut<br/>
-            •Added options for Spongebob text shortcuts (random, alternate, vowels, or consonents)
+            <b>6.9</b><br/>
+            •底层代码修复镜像分屏键盘，无需安装驱动，如已安装，卸载即可<br/>
             <br/><br/>
-            <b>FIXES & IMPROVEMENTS:</b><br/>
-            •Improved entropy of randomness for Spongebob text<br/>
-            •Reorganized some settings<br/>
-            •Code refactoring
+            <b>6.7.1-6.8</b><br/>
+            •音量新增步数(实用功能分类)<br/>
+            •镜像分屏支持窗口打开时点击拉手收回拉手，长按拉手切换分屏应用 (镜像分屏分类)<br/>
+            •修复镜像分屏震动并分离震动开关 (镜像分屏分类)
+            •按压桌面应用拷贝应用id (实用功能分类)
+            •修复镜像分屏的一些问题，并新增迷你悬浮
+            •计算器历史新增开关
+            •修复一些bug，并移除圆角通知中心
+            <b>6.6.10-6.6.11</b><br/>
+            •新游戏手势模式(防止误触)
             ]]>
         </change>
     </changes>
