@@ -1,4 +1,22 @@
-<changelog>  
+<changelog> 
+ 
+ <changes>
+        <version>2.4.0-2.4.1</version>
+        <change><![CDATA[
+            <b>NEW FEATURES:</b><br/>
+            •Added Tranzlo shortcut<br/>
+            •Added options for Spongebob text shortcuts (random, alternate, vowels, or consonents)
+            <br/><br/>
+            <b>FIXES & IMPROVEMENTS:</b><br/>
+            •Improved entropy of randomness for Spongebob text<br/>
+            •Reorganized some settings<br/>
+            •Code refactoring
+            ]]>
+        </change>
+    </changes>
+ 
+ 
+ 
  <changes> 
  <version>5.9.5-6.0</version> 
  <change> 
