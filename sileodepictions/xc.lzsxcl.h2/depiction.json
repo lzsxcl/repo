@@ -122,6 +122,23 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+				
+					{
+					"title": "6.9",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},			
+				
+				{
+					"markdown": "\t\n\u2022 底层代码修复镜像分屏键盘，无需安装驱动，如已安装，卸载即可",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				
+				
+				
 				{
 					"title": "6.8",
 					"useBoldText": true,
