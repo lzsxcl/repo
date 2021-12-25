@@ -1,55 +1,18 @@
-<changelog>	
-	<changes>
-		<version>5.9.5-6.0</version>
-		<change>
-图钉
-悬浮球改名一步并移动拖拽功能，悬浮球内图标放大5px
-双击息屏改为三击息屏(锁屏界面)
-拍照与截图静音
-解决长时间锁屏，时间有短暂异步的问题
-优化设置界面流畅度
-悬浮球新增些内置图标
-桌面设置中新增功能，可以设置4张壁纸
-手势分类中新增桌面附加手势
-电话助手不锁定悬浮网速可共存
-解决悬浮球在未开启时与猎户座orion蓝牙电池信息冲突导致的桌面无法点击滑动问题
-提高稳定性
-</change>
-	</changes>
+<!-- saved from url=(0069)https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccpowerDp -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<panel>
 
+ <fieldset style="clear:both">
+  <label>What's New</label>
+  <div>
+   
+新增重建桌面进度提示<br>
+add uicache progress<br>
+<br>
+新增可选锁屏时是否允许唤出
 
-	<changes>
-		<version>5.8</version>
-		<change>新的时间格式自定义，face设备支持换行，不影响录屏导航以及定位图标
-双击息屏支持桌面和通知中心，以及锁屏界面,并加入震动反馈移动到[实用功能分类]
-修复桌面多选应用时的意外锁屏
-修复ipad-dock在高分辨率设备图标可能模糊的问题
-修复高分辨率设备ipad-dock两边宽度过宽的问题
-全局(控制中心，左侧控件)音量、亮度百分比[实用功能分类]
-修复签名在资源库位置偏移的问题
-修改一下小细节</change>
-	</changes>
-	
-	<changes>
-		<version>5.7</version>
-		<change>1.对横条电池开放更多的调整
-2.适配最新的libCSPerferences依赖，向下兼容1.1.6
-解决部分用户因为依赖过新一直没有子标签提示的痛苦</change>
-	</changes>
+  </div>
+ </fieldset> 
+</panel>
 
-	<changes>
-		<version>5.0-5.6</version>
-		<change>焦点消息推送、横条电池、透色、悬浮网速、触摸点、新的电池百分比、手电提示图标、壁纸模糊、锁屏充电magsafe、双卡助手、条件性的face设备快速解锁方案、按键手电筒、右侧滚动条颜色、视频横屏提示按钮</change>
-	</changes>
-
-	<changes>
-		<version>3.0-4.0</version>
-		<change>右侧返回、Dock背景壁纸、ipad拖拽、光线传感器、隐私空间加密、h2Arc手势、emoji天气、微信助手、电话帮手、更舒适的动画、上滑切换输入法、后台一键清理</change>
-	</changes>
-
-	<changes>
-		<version>1.0-2.0</version>
-		<change>touch设备防误触手势、禁用手势、手电等功能</change>
-	</changes>
-
-</changelog>
+</body></html>
