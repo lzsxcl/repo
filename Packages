@@ -425,6 +425,25 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/ninea
 Name: h2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
 
+Package: xc.lzsxcl.h2
+Version: 6.9
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 6548
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/xc.lzsxcl.h2_6.9_iphoneos-arm.deb
+Size: 940574
+MD5sum: e6a99480a1000acab36c91401b018db4
+SHA1: d243f92f0a291092b5bc2994ecdb9b8cd9e94e18
+SHA256: bc3902072c3b19e93db894d5ac08854be649871a8f70691bbe9083e17e961175
+Section: Tweaks
+Description: 打破物理限制,开启全新交互形式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.h2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/nineanimpic.jpg
+Name: h2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
+
 Package: xc.lzsxcl.h2braille.iOS14
 Version: 1.0
 Architecture: iphoneos-arm
