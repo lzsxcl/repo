@@ -117,8 +117,57 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+				{
+					"title": "7.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},			
 				
-					{
+				{
+					"markdown": "\t\n\u2022 告别2021，元旦快乐，新的一年，新的向往，新的希望",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏新增镜像与底层同时支持触摸",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 镜像分频新增窗口互动，支持单击/长按黑色遮罩层抬高镜像并解锁底层应用触控，以支持即时聊天软件，分屏聊天两不误，具体操作逻辑看镜像分屏分类介绍",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 打开设置新增直接定位跳转至插件部分 (设置调整分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增通知中心具体通知时间 (锁屏自定义分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 锁屏和桌面分别新增新的模糊样式",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				{
+					"markdown": "\t\n\u2022 实验性颠覆窗口致敬Smartisan OS One Step 3.5(暂只有框架)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				
+				
+				
+				
+				
+				
+				{
 					"title": "6.9",
 					"useBoldText": true,
 					"useBottomMargin": true,
