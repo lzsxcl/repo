@@ -118,6 +118,43 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "7.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},			
+				
+				{
+					"markdown": "\t\n\u2022 重大突破性更新",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 对实验性多窗口镜像分屏窗口进行一吨生猛的操作",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏新增同时3个app运行，且大窗口可切换",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏新增个人专属定制图片窗口",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏背景高斯模糊",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 警告警告警告警告警告警告警告警告警告警告：一定要设置窗口3和窗口4的应用id，不然会安全模式，更新后如点击或拉动拉手安全模式，自行删除h2split.plist设置文件后，重新设置分屏",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
 					"title": "7.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
