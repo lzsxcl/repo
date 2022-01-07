@@ -118,6 +118,18 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "7.1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},			
+				
+				{
+					"markdown": "\t\n\u2022 修复一些可能会导致镜像分屏点击安全模式的bug",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"title": "7.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
