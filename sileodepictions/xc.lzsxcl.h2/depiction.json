@@ -118,6 +118,52 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "7.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},			
+				{
+					"markdown": "\t\n\u2022 镜像分屏窗口2 摇身一变，变成音乐播放器",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 镜像分屏窗口2 在播放音乐时自动切换为音乐专辑，反之自定义",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 镜像分屏窗口2 新增音乐播放器控制器",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏窗口2 新增音乐信息与歌词(支持实时滚动)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 修复在内测期间发现的一些bug",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 提醒：低版本的其他国家语言包不适用高版本",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 提醒：副窗口3 4务必设置应用id",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 服务器乃在维护(期间不支持激活与购买),具体恢复时间会在微信公众号告知",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
 					"title": "7.1.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
