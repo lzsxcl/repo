@@ -118,6 +118,37 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "7.3",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},			
+				{
+					"markdown": "\t\n\u2022 This adjustment is limited to domestic authorization and does not accept foreign authorization",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 服务器已恢复，国内可正常授权",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 移除图钉并优化一些问题，已经是可有可无的功能，后期对其进行改造后上线",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 为了更好地与背景区分，镜像分屏窗口新增描边",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复与PullOver一起使用的兼容性，简单来说就是共存",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
 					"title": "7.2",
 					"useBoldText": true,
 					"useBottomMargin": true,
