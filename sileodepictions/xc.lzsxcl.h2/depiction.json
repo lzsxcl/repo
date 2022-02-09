@@ -118,6 +118,32 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "7.4.6",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复不开启小窗口时，大窗口无法托管小窗口相同id的bug",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 单手模式新增全新音乐播放器",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 修复反馈中7.4遇到的一些问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 修改迷你模式音乐播放器的样式",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
 					"title": "7.3",
 					"useBoldText": true,
 					"useBottomMargin": true,
