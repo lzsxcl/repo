@@ -118,6 +118,17 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "7.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 新增内购机，省钱挖掘机，一次挖掘即可回本",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
 					"title": "7.4.6",
 					"useBoldText": true,
 					"useBottomMargin": true,
