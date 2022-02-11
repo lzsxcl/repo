@@ -118,6 +118,32 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "7.5.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复在没有开启实验性多窗口分屏以及底层存在3或4窗口时，分屏窗口依然挂载3和4窗口，导致底层变黑的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复单手窗口播放器上一曲和下一曲的调转问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复在没有开启迷你窗时不填写应用id会安全的问题。(不开启时关闭实验性多窗口分屏)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 实用功能分类 新增从任何地方通过手势或者摇一摇启动系统 Spotlight 搜索",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
 					"title": "7.5",
 					"useBoldText": true,
 					"useBottomMargin": true,
