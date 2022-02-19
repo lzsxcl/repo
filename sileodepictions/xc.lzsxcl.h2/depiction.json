@@ -118,6 +118,43 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "7.6",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 电量救护车 (实用功能分类)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复一些用户反馈的已知问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"title": "7.5.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 隐藏分割线新增图标按压隐藏，CC媒体播放、airplay扩展、CC蓝牙、WiFi扩展模块隐藏",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复内购机的一些问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 优化插件页，支持接收作者的紧急推送",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
 					"title": "7.5.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
