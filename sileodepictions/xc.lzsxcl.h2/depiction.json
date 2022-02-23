@@ -118,6 +118,32 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "7.7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏迷你模式全新游戏小窗",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏拉手新模式",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复迷你窗口拉手上下移动超出窗口的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏修改窗口在未装挂应用程序时透明",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
 					"title": "7.6",
 					"useBoldText": true,
 					"useBottomMargin": true,
