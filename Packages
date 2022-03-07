@@ -710,6 +710,25 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/ninea
 Name: h2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
 
+Package: xc.lzsxcl.h2
+Version: 7.7.7
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 6604
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/xc.lzsxcl.h2_7.7.7_iphoneos-arm.deb
+Size: 930048
+MD5sum: 2b4af295ed947cfdb62d83ca8a2045b2
+SHA1: afe96cde5d7494f07750efe416bf877711217248
+SHA256: ad6b6e91a34ea5feb38f753a969761261a8f20f1bab04882a61e9c9f977a8911
+Section: Tweaks
+Description: 打破物理限制,开启全新交互形式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.h2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/nineanimpic.jpg
+Name: h2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
+
 Package: xc.lzsxcl.h2braille.iOS14
 Version: 1.0
 Architecture: iphoneos-arm
@@ -803,4 +822,22 @@ Section: System
 Description: h2信号音频播放器依赖
 Author: lzsxcl
 Name: libh2sona
+
+Package: xc.lzsxcl.o2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 2000
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
+Filename: ./debs/xc.lzsxcl.o2_1.0_iphoneos-arm.deb
+Size: 712616
+MD5sum: f6c48ac6c4cf07b4929e037cd1668c04
+SHA1: 56559fdcb1b936c7af7d89e8b996233105e7fa15
+SHA256: fcd9940aea05c60ddd4d5ac60c3e28fddd06a28a83e20d81db14ecad7ec7fd6a
+Section: Tweaks
+Description: o2分屏,一步打通应用间的边界
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Name: o2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
