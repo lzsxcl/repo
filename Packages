@@ -748,6 +748,25 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/ninea
 Name: h2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
 
+Package: xc.lzsxcl.h2
+Version: 7.7.8
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 6604
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/xc.lzsxcl.h2_7.7.8_iphoneos-arm.deb
+Size: 930594
+MD5sum: a852ba7ab334692a3c497040578d2dce
+SHA1: ba599a91d70c10269e1a428ad7091afc6725a030
+SHA256: c6ba905704d9a461167759706e64e8bbecde8d0c12ed441b0629bb145d9172b1
+Section: Tweaks
+Description: 打破物理限制,开启全新交互形式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.h2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/nineanimpic.jpg
+Name: h2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
+
 Package: xc.lzsxcl.h2braille.iOS14
 Version: 1.0
 Architecture: iphoneos-arm
@@ -857,6 +876,25 @@ Section: Tweaks
 Description: o2分屏,一步打通应用间的边界
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Name: o2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
+Package: xc.lzsxcl.o2
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 1632
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11), com.creaturecoding.libcspreferences (>= 1.5.7)
+Filename: ./debs/xc.lzsxcl.o2_1.0.2_iphoneos-arm.deb
+Size: 285932
+MD5sum: 86a1f81fde25cca6e2afe76d408e653b
+SHA1: abc8d57ca54cb934261eaa7c1dad9e39bad9e1c0
+SHA256: 3b5a2e5f0a4b376850b85f9d4d642e5cef9a7f7c4075d0efd1dfce86e224dbd4
+Section: Tweaks
+Description: o2分屏,一步打通应用间的边界
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
 Name: o2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
