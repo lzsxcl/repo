@@ -886,10 +886,10 @@ Maintainer: lzsxcl
 Installed-Size: 1632
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11), com.creaturecoding.libcspreferences (>= 1.5.7)
 Filename: ./debs/xc.lzsxcl.o2_1.0.2_iphoneos-arm.deb
-Size: 285932
-MD5sum: 86a1f81fde25cca6e2afe76d408e653b
-SHA1: abc8d57ca54cb934261eaa7c1dad9e39bad9e1c0
-SHA256: 3b5a2e5f0a4b376850b85f9d4d642e5cef9a7f7c4075d0efd1dfce86e224dbd4
+Size: 285536
+MD5sum: 8ceca8ba33d526cb14a52f2ac363a9fe
+SHA1: eed91b646d6795c878bfadf292a03b8731eac017
+SHA256: de971eee8f932bd83b3be6870a767cd6137dd8b9b9f769031e672e0451e9fcb0
 Section: Tweaks
 Description: o2分屏,一步打通应用间的边界
 Author: lzsxcl
