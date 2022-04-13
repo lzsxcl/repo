@@ -936,3 +936,22 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jp
 Name: o2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
+Package: xc.lzsxcl.o2
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 1788
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11), com.creaturecoding.libcspreferences (>= 1.5.7)
+Filename: ./debs/xc.lzsxcl.o2_1.0.5_iphoneos-arm.deb
+Size: 300204
+MD5sum: 5d361d214e84576ec2e47c05c0ea14ef
+SHA1: 0a0060ac706784a9dc5aa3e45dc62a5ec0296085
+SHA256: 6cb2b8f105b9f7526a5c6514a5bc02bb460da1446d78e56ebbb9d795bf216cac
+Section: Tweaks
+Description: o2分屏,一步打通应用间的边界
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
+Name: o2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
