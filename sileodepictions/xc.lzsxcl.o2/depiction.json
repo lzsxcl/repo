@@ -13,42 +13,22 @@
 						{
 							"accessibilityText": "Featured Animes",
 							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_1.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_1.png"
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_1.png"
 						},
 						{
 							"accessibilityText": "Recently Viewed",
 							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_2.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_2.png"
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_2.png"
 						},
 						{
 							"accessibilityText": "Search",
 							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_3.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_3.png"
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_3.png"
 						},
 						{
 							"accessibilityText": "Search Results",
 							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_4.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_4.png"
-						},
-						{
-							"accessibilityText": "Choose Episodes",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_5.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_5.png"
-						},
-						{
-							"accessibilityText": "Chromecast",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_6.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_6.png"
-						},
-						{
-							"accessibilityText": "Chromecast",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_7.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_7.png"
-						},	
-						{
-							"accessibilityText": "Chromecast",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_8.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_8.png"
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_4.png"
 						},						
 					],
 					"ipad": {
@@ -57,8 +37,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Featured Animes",
-								"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_1.png",
-								"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.h2/screenshots/screenshot_1.png"
+								"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_1.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_1.png"
 							},
 						],
 						"class": "DepictionScreenshotView"
@@ -67,7 +47,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 核心功能\n镜像分屏、游戏手势、内购机、隐私空间加密、勿扰焦点推送、右侧返回手势、信号音频、touch防误触手势、h2arc手势、便利贴、状态栏调整、dock与后台调整、以及一堆实用功能，功能太多不过多阐述。具体见插件。"
+					"markdown": "## 核心功能\n一步打通应用间的边界，全新美观便捷的分屏新方式。"
 				},
 				{
 					"title": "获取授权码",
