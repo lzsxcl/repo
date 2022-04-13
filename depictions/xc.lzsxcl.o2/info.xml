@@ -1,6 +1,6 @@
 <package>
-	<id>xc.lzsxcl.h2</id>
-	<name>h2</name>
+	<id>xc.lzsxcl.o2</id>
+	<name>o2</name>
 	<version>6.x</version>
 	<compatibility>
 		<firmware>
@@ -11,9 +11,9 @@
 	</dependencies>
 	<shortDescription></shortDescription>
 	<descriptionlist>
-    <description>镜像分屏、游戏手势、勿扰焦点推送、右侧返回手势、touch防误触手势、隐私空间加密、h2arc手势、便利贴、状态栏调整、dock与后台调整、以及一堆实用功能，功能太多不过多阐述。具体见插件。</description>
+    <description>一步打通应用间的边界，全新快捷美观的分屏新方式。</description>
 
-		<description>兼容：iOS (13.0 - 14.8)</description>
+		<description>兼容：iOS (13.0 - 14.8.1)</description>
 		<description>支持设备：6s-12pm</description>
 		<description>授权限期：一机一码，永久授权</description>
 		<description>我并没有对cydia做过多的描述，详见下方截图，或插件内查看更新日志，sileo则有很好的描述简介</description>		
@@ -34,18 +34,6 @@
     <screenshot>
       <description>Search Results</description>
       <image>screenshot_4.png</image>
-    </screenshot>
-    <screenshot>
-      <description>Choose Episodes</description>
-      <image>screenshot_5.png</image>
-    </screenshot>
-    <screenshot>
-      <description>Chromecast</description>
-      <image>screenshot_6.png</image>
-    </screenshot>
-    <screenshot>
-      <description>Chromecast</description>
-      <image>screenshot_7.png</image>
     </screenshot>	
   </screenshots>
 	<changelog>
