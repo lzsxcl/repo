@@ -29,7 +29,32 @@
 							"accessibilityText": "Search Results",
 							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_4.png",
 							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_4.png"
+						},
+						{
+							"accessibilityText": "Featured Animes",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_5.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_5.png"
+						},
+						{
+							"accessibilityText": "Recently Viewed",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_6.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_6.png"
+						},
+						{
+							"accessibilityText": "Search",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_7.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_7.png"
+						},
+						{
+							"accessibilityText": "Search Results",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_8.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_8.png"
 						},						
+						
+						
+						
+						
+						
 					],
 					"ipad": {
 						"itemCornerRadius": 9,
@@ -64,7 +89,7 @@
 				},
 				{
 					"title": "兼容",
-					"text": "iOS (13.0 - 14.8)",
+					"text": "iOS (13.0 - 14.8.1)",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -97,6 +122,148 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+				{
+					"title": "1.0.8.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2022 1.变更-脱离Activator依赖，手势启动与物理按键，安装Activator既支持，不安装则不支持",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"title": "1.0.8",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增-Activator支持 打开或关闭o2分屏窗口",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增-通过[音量-] 打开或关闭o2分屏窗口",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复-应用快捷按钮高亮色的一些问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0.7",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 新增-辅窗口带来了全新的菜单选择，免id烦恼",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增-播放音乐时点击专辑或歌词全屏打开当前播放应用",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 新增-应用快捷按钮高亮色*可选",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复-窗口应用快捷切换图标不更新的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 修复-喜爱的应用丢失的问题，并启用全新的菜单",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复-可能导致安全的小问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				{
+					"title": "1.0.6",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				
+				{
+					"markdown": "\t\n\u2022 新增-横屏时长按遮罩自动定位至窗口键盘处并放大，以方便横屏聊天",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增-横屏时单击遮罩从放大键盘模式转回正常模式，滑动则为关闭横屏分屏窗口",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 新增-点击悬浮打开可选单窗口分屏/多窗口分屏",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 新增-打开大窗口是可对悬浮进行滑动长按点击等操作",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增-可选择性开启快捷按钮开关",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 新增-一键返回桌面按钮，移除爱心图标",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},		
+				{
+					"markdown": "\t\n\u2022 优化-线性动画改为非线性动画，更舒坦",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 优化-分屏打开的状态下 双击对应的应用图标切换至大窗口，其他两个小窗自动暂停以更加省电",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 变更-快捷方式位置样式变更",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 变更-为避免不必要的误触，已移除点击遮罩关闭分屏的手势",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 修复-左/右长滑悬浮直接切换打开中3/4窗口，对应的窗口开启错误的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复-窗口不贴边有白边的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 修复-大窗口3/4的圆角过大的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
 				{
 					"title": "1.0.5",
 					"useBoldText": true,
@@ -137,9 +304,20 @@
 					"markdown": "\t\n\u2022 7.优化-提升老设备的流畅度",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "1.0-1.0.4",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 更多日志请前往插件内查看",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
 				},				
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2022.04.13</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2022.04.30</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
