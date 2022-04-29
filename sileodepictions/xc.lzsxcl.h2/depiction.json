@@ -67,7 +67,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 核心功能\n镜像分屏、游戏手势、内购机、隐私空间加密、勿扰焦点推送、右侧返回手势、信号音频、touch防误触手势、h2arc手势、便利贴、状态栏调整、dock与后台调整、以及一堆实用功能，功能太多不过多阐述。具体见插件。"
+					"markdown": "## 核心功能\n游戏手势、内购机、隐私空间加密、信号音频、勿扰焦点推送、右侧返回手势、镜像分屏（已独立至o2）、touch防误触手势、h2arc手势、便利贴、状态栏调整、dock与后台调整、以及一堆实用功能，功能太多不过多阐述。具体见插件。"
 				},
 				{
 					"title": "获取授权码",
@@ -117,6 +117,69 @@
 		{
 			"tabname": "更新日志",
 			"views": [
+				{
+					"title": "提示",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏已独立至o2，安装o2需先更新h2到最新版",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"title": "7.7.8",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 修复一些已知问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏 在横屏时支持屏幕朝上呼出悬浮图标(迷你/单手)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏 修复左手模式的bug(迷你/单手)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 对单手模式进行了全机型适配，位置和大小都是相对的",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "7.7.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏 单手模式支持横屏游戏小窗",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏 迷你模式和单手模式现已支持横屏自动切换窗口布局",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 镜像分屏 一定几率修复喜爱的应用被初始化的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 基于多方面考虑原内测版中ac的调用已在正式版中隐藏",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "7.7",
 					"useBoldText": true,
