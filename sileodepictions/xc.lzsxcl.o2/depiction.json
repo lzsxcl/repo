@@ -123,6 +123,67 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "1.0.9",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 变更-调整底部按钮位置",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增-低栏新增背景",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增-长按关闭按钮返回桌面，单击关闭分屏窗口",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增-通知中心按钮*替换原返回桌面按钮",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增-一键刷新窗口按钮",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 变更-滑动悬浮切换应用改为默认大窗口",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 变更-优化一些动画效果",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 修复-横屏时主窗口被刘海遮挡的情况",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 优化-长滑动灵敏度",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 新增-底栏背景新增个人专属",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 调整原顶栏快捷，收纳到小三角图标，双击呼出，单击关闭",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
 					"title": "1.0.8.1",
 					"useBoldText": true,
 					"useBottomMargin": true,
