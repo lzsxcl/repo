@@ -123,6 +123,27 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "1.0.10",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 支持分屏内使用摄像头、微信视频聊天",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 重大新增-长按底部应用快捷可为当前应用打开[可访问摄像头模式]",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 变更-移除原长按全屏打开应用]",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
 					"title": "1.0.9",
 					"useBoldText": true,
 					"useBottomMargin": true,
@@ -378,7 +399,7 @@
 					"class": "DepictionMarkdownView"
 				},				
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2022.04.30</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2022.05.05</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
