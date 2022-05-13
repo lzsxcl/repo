@@ -123,11 +123,88 @@
 			"tabname": "更新日志",
 			"views": [
 				{
-					"title": "1.0.10",
+					"title": "1.0.12",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
+				{
+					"markdown": "\t\n\u2022 对比 [1.0-1.0.11] 1.0.12为目前最流畅好用的版本，建议所有o2的用户升级",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+				{
+					"markdown": "\t\n\u2022 优化后台逻辑，打开分屏时默认不加载除主窗口的其他窗口，用户可根据需求点击窗口图标进行加载，更加人性化",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 大幅度提升流畅度与减少对内存的占用",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 调用系统suspended内存管理回收，相比以往版本更加省电，流畅",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 新增跨分屏拖动文字与图片(支持微信)",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 辅窗口点击加载后会默认切换为中窗口，节省一大步",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 优化页面布局和调整按钮大小",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 分离辅窗圆角",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "\t\n\u2022 优化关闭窗口动画以及流畅度",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 修复启动辅窗口时同时会加载窗口2或窗口3以及辅窗的问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"title": "1.0.11",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},					
+				{
+					"markdown": "\t\n\u2022 新增-辅窗口切换同时可操作6个应用",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 变更-横屏时播放器自动隐藏，点击悬浮可呼出，以预留更多的可视空间",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},					
+				{
+					"markdown": "\t\n\u2022 优化-修复一些前台应用与分屏应用的问题与优化细节",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"title": "1.0.10",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
 				{
 					"markdown": "\t\n\u2022 支持分屏内使用摄像头、微信视频聊天",
 					"useSpacing": false,
