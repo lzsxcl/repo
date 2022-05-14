@@ -956,6 +956,25 @@ Name: o2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
 Package: xc.lzsxcl.o2
+Version: 1.0.12.5
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 2200
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11), com.creaturecoding.libcspreferences (>= 1.5.7)
+Filename: ./debs/xc.lzsxcl.o2_1.0.12.5_iphoneos-arm.deb
+Size: 389766
+MD5sum: 53659e9f85a068a71b3141ac130abadb
+SHA1: 23263828b7ec505071c1f33e784b05a3eb7f101c
+SHA256: 85e9692d1940ac51475c08eecce58dbbd6d84ecc16bec18726f91b859e8438c3
+Section: Tweaks
+Description: o2分屏(支持分屏内使用摄像头、微信视频聊天),一步打通应用间的边界，全新美观便捷的分屏新方式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
+Name: o2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
+Package: xc.lzsxcl.o2
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
