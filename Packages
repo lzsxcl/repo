@@ -16,6 +16,24 @@ Author: lzsxcl
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: CC control center
 
+Package: l2
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 824
+Depends: openssh
+Filename: ./debs/l2_0.1_iphoneos-arm.deb
+Size: 141164
+MD5sum: ddeda41ff764c21aeb769c491cf8431d
+SHA1: d06254107e8d6b44186af5f2f64757f7e4f01561
+SHA256: 43aaeca587b046bc0795983b57f7eb2445d0f9ee0b64b99e7d6044d477057e77
+Section: System
+Description: 超精准的系统底层虚拟定位 虚拟位置 (如未激活，位置将随机分配) 更新与安装后，注销时间可能稍长，请耐心等待
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
+
 Package: xc.lzsxcl.SmartisanT
 Version: 0.3
 Architecture: iphoneos-arm
