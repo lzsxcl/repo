@@ -34,6 +34,24 @@ Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
 
+Package: l2
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 824
+Depends: openssh
+Filename: ./debs/l2_0.2_iphoneos-arm.deb
+Size: 141378
+MD5sum: 3eeb6aa7a0365889d80359cd166031e0
+SHA1: 04df9c49fd6af210b8d4fc121dc2d639ada3b782
+SHA256: 2839706183e69da986c17b2c9acf983a1712038e08daca70b141f979b200b1ca
+Section: System
+Description: 超精准的系统底层虚拟定位 虚拟位置 *可调精准度
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
+
 Package: xc.lzsxcl.SmartisanT
 Version: 0.3
 Architecture: iphoneos-arm
@@ -984,6 +1002,25 @@ Size: 389766
 MD5sum: 53659e9f85a068a71b3141ac130abadb
 SHA1: 23263828b7ec505071c1f33e784b05a3eb7f101c
 SHA256: 85e9692d1940ac51475c08eecce58dbbd6d84ecc16bec18726f91b859e8438c3
+Section: Tweaks
+Description: o2分屏(支持分屏内使用摄像头、微信视频聊天),一步打通应用间的边界，全新美观便捷的分屏新方式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
+Name: o2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
+Package: xc.lzsxcl.o2
+Version: 1.0.13
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 2216
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11), com.creaturecoding.libcspreferences (>= 1.5.7)
+Filename: ./debs/xc.lzsxcl.o2_1.0.13_iphoneos-arm.deb
+Size: 385896
+MD5sum: ad4dac737b77f0e162033db2999c5506
+SHA1: 8c872ddab366056c0d33ebc146b8d497ae1aa689
+SHA256: 4d2cb0b22edc64a91b0520ac1caad0c4f43d3d29b027a8761cef6ad4055c1255
 Section: Tweaks
 Description: o2分屏(支持分屏内使用摄像头、微信视频聊天),一步打通应用间的边界，全新美观便捷的分屏新方式
 Author: lzsxcl
