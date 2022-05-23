@@ -52,6 +52,24 @@ Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
 
+Package: l2
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 852
+Depends: openssh
+Filename: ./debs/l2_0.3_iphoneos-arm.deb
+Size: 150374
+MD5sum: 3f682cf7c9b246114a190e79d8c527f9
+SHA1: 9df1a916d0917e97c8b2fe2f6e0004dae7c5aa40
+SHA256: 1702a9cc8d05628d7cf691982d8388ce2d28d885a7c9f060906be4f760559687
+Section: System
+Description: 超精准的系统底层虚拟定位 虚拟位置 *可调精准度
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
+
 Package: xc.lzsxcl.SmartisanT
 Version: 0.3
 Architecture: iphoneos-arm
@@ -803,6 +821,25 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/ninea
 Name: h2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
 
+Package: xc.lzsxcl.h2
+Version: 7.7.9
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 6608
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./debs/xc.lzsxcl.h2_7.7.9_iphoneos-arm.deb
+Size: 931634
+MD5sum: 1eb45ea041fc9f9797d26b835f4fbfaf
+SHA1: 5e5c9f0a0ff88db791d6659e60bf115e082e3077
+SHA256: c6f1cfbbc095545f2043f7973cf074102dc844ac34616a97c5551ebb3579ba4a
+Section: Tweaks
+Description: 打破物理限制,开启全新交互形式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.h2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/nineanimpic.jpg
+Name: h2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.h2/depiction.json
+
 Package: xc.lzsxcl.h2braille.iOS14
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1021,6 +1058,25 @@ Size: 385896
 MD5sum: ad4dac737b77f0e162033db2999c5506
 SHA1: 8c872ddab366056c0d33ebc146b8d497ae1aa689
 SHA256: 4d2cb0b22edc64a91b0520ac1caad0c4f43d3d29b027a8761cef6ad4055c1255
+Section: Tweaks
+Description: o2分屏(支持分屏内使用摄像头、微信视频聊天),一步打通应用间的边界，全新美观便捷的分屏新方式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
+Name: o2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
+Package: xc.lzsxcl.o2
+Version: 1.0.14
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 2248
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11), com.creaturecoding.libcspreferences (>= 1.5.7)
+Filename: ./debs/xc.lzsxcl.o2_1.0.14_iphoneos-arm.deb
+Size: 407322
+MD5sum: d8e66fcc4a77b7690c6835c2c2c587a0
+SHA1: a4c6e70a83a6e83538e752492bf4c502386a40a1
+SHA256: faf098ed0a412a67be98ae93a0015394c09b89b53990ef77e4838729075d505c
 Section: Tweaks
 Description: o2分屏(支持分屏内使用摄像头、微信视频聊天),一步打通应用间的边界，全新美观便捷的分屏新方式
 Author: lzsxcl
