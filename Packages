@@ -70,6 +70,19 @@ Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
 
+Package: m2
+Version: 0.1
+Architecture: iphoneos-arm
+Installed-Size: 1556
+Depends: python3, openssh
+Filename: ./debs/m2_0.1_iphoneos-arm.deb
+Size: 258670
+MD5sum: 46268e2dfc465e885c60d2c6a37505e3
+SHA1: f24781159d7c4e24b8113cc62d77e28bce0ad581
+SHA256: 7b4c1fd4a9ef7f80dcb7c506f952c3fd01ab70db48863091c2e56bf71df821ea
+Section: System
+Description: 专治坏蛋 别让自己活成...你讨厌的人 *（不开放下载）
+
 Package: xc.lzsxcl.SmartisanT
 Version: 0.3
 Architecture: iphoneos-arm
