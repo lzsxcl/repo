@@ -70,6 +70,24 @@ Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
 
+Package: l2
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 852
+Depends: openssh
+Filename: ./debs/l2_0.4_iphoneos-arm.deb
+Size: 150752
+MD5sum: 13f470f8baef71b66ccaf75e390ed91b
+SHA1: 61589cbae65839c83de112d053ed9da19d3c148d
+SHA256: 204af9c365a29399ce68df9e8a1dfc153104e0f7df2910a13a0edb722f4ac638
+Section: System
+Description: 超精准的系统底层虚拟定位 虚拟位置 *可调精准度
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
+
 Package: m2
 Version: 0.1
 Architecture: iphoneos-arm
@@ -1071,6 +1089,25 @@ Size: 407322
 MD5sum: d8e66fcc4a77b7690c6835c2c2c587a0
 SHA1: a4c6e70a83a6e83538e752492bf4c502386a40a1
 SHA256: faf098ed0a412a67be98ae93a0015394c09b89b53990ef77e4838729075d505c
+Section: Tweaks
+Description: o2分屏(支持分屏内使用摄像头、微信视频聊天),一步打通应用间的边界，全新美观便捷的分屏新方式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
+Name: o2
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
+Package: xc.lzsxcl.o2
+Version: 1.0.15
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 2248
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11), com.creaturecoding.libcspreferences (>= 1.5.7)
+Filename: ./debs/xc.lzsxcl.o2_1.0.15_iphoneos-arm.deb
+Size: 404922
+MD5sum: f43206d3a2c1a4e5a85ca851999b8a0b
+SHA1: 848da6946e3db7a4972a7a4c984c7a84519b854c
+SHA256: cbf6bb2fb48dcc5463162a767971d71bba94f0b001fb85c848b25895473c46c2
 Section: Tweaks
 Description: o2分屏(支持分屏内使用摄像头、微信视频聊天),一步打通应用间的边界，全新美观便捷的分屏新方式
 Author: lzsxcl
