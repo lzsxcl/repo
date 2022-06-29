@@ -88,19 +88,6 @@ Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
 
-Package: m2
-Version: 0.1
-Architecture: iphoneos-arm
-Installed-Size: 1556
-Depends: python3, openssh
-Filename: ./debs/m2_0.1_iphoneos-arm.deb
-Size: 258670
-MD5sum: 46268e2dfc465e885c60d2c6a37505e3
-SHA1: f24781159d7c4e24b8113cc62d77e28bce0ad581
-SHA256: 7b4c1fd4a9ef7f80dcb7c506f952c3fd01ab70db48863091c2e56bf71df821ea
-Section: System
-Description: 专治坏蛋 别让自己活成...你讨厌的人 *（不开放下载）
-
 Package: xc.lzsxcl.SmartisanT
 Version: 0.3
 Architecture: iphoneos-arm
@@ -1286,4 +1273,52 @@ Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
 Name: o2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
+Package: xc.lzsxcl.s2
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 316
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), com.opa334.ccsupport
+Filename: ./debs/xc.lzsxcl.s2_0.1_iphoneos-arm.deb
+Size: 15934
+MD5sum: 6068570eb86202e19388cf10402495c9
+SHA1: a98377a6ca4d92ae1b02cb90bbfbe96157c458f1
+SHA256: 134ad75ad8c775d7acb943603c0db8e5d10abcf0be1057d12ef2c231b0309553
+Section: Tweaks
+Description: [l2用户独享] 通过控制中心更随心地控制锁屏密码，疫情在外戴口罩，Face Id常常不能准确识别,现在可以通过控制中心临时关闭锁屏密码，人脸识别以及指纹，当你有需要的时候再通过控制中心打开即可。
+Author: lzsxcl
+Name: s2
+
+Package: xc.lzsxcl.t2
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 1232
+Conflicts: xc.lzsxcl.t2
+Filename: ./debs/xc.lzsxcl.t2_0.2_iphoneos-arm.deb
+Size: 189686
+MD5sum: aa75086d096e7da8da733fb8e9a8f4a4
+SHA1: 9ee1df36b726669880fd1a515dc61f6d4b863b67
+SHA256: c89677096ea9bbe460bc82f4bd951e600307b03085411d057d5e861b781e3d7e
+Section: Utilities
+Description: 更适合国人的ios进程管理器 iOS14+部分版本 自用
+Author: lzsxcl
+Name: t2
+
+Package: xc.lzsxcl.w2
+Version: 0.1.6
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 524
+Filename: ./debs/xc.lzsxcl.w2_0.1.6_iphoneos-arm.deb
+Size: 98466
+MD5sum: 4096c43284fd22a3570f61d54feff82d
+SHA1: 56192e72192079431b878e02691d78c2caa392f0
+SHA256: e269e41a89235bab5bf28982c7e536f59d65109717f7c9b81321cd20c96a6c64
+Section: Tweaks
+Priority: optional
+Description: [l2用户独享-全局虚拟视频] 很哇塞的一款微信插件
+Author: lzsxcl
+Name: w2
 
