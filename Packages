@@ -88,6 +88,24 @@ Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
 
+Package: l2
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 876
+Depends: openssh
+Filename: ./debs/l2_0.5.1_iphoneos-arm.deb
+Size: 168566
+MD5sum: e5ea5746a47494d24e28abf4dfdf3abe
+SHA1: e62748098b04d9071a0a19f4518e6a0b909040ae
+SHA256: 572cbddf98c3d48cbb7d0809fc4da4f657a0a8a1c1c418448d2fad71b6cff413
+Section: System
+Description: 超精准的系统底层虚拟定位 虚拟位置 *可调精准度
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
+
 Package: xc.lzsxcl.SmartisanT
 Version: 0.3
 Architecture: iphoneos-arm
