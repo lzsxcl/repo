@@ -1340,3 +1340,19 @@ Description: [l2用户独享-全局虚拟视频] 很哇塞的一款微信插件
 Author: lzsxcl
 Name: w2
 
+Package: xc.lzsxcl.w3
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 88
+Filename: ./debs/xc.lzsxcl.w3_0.0.1_iphoneos-arm.deb
+Size: 1708
+MD5sum: 03b32f4b8529bc58734027845685e2c2
+SHA1: a9cba6126f3cfa3d5c2ec97bae9f0f2a2fa38156
+SHA256: c827d7cb1a5275678a88b9698ef64c5801d388326bedb09941c9c7b5cc99b46e
+Section: Tweaks
+Priority: optional
+Description: 全局虚拟视频-有声版
+Author: lzsxcl
+Name: w3
+
