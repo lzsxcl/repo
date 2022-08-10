@@ -123,6 +123,42 @@
 			"tabname": "更新日志",
 			"views": [
 				{
+					"title": "1.1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},				
+				{
+					"markdown": "\t\n\u2022 全新发牌手拖应用分屏",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "\t\n\u2022 优化设置项分类",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},	
+					{
+					"markdown": "\t\n\u2022 解决黑屏问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+					{
+					"markdown": "\t\n\u2022 解决耗电问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+					{
+					"markdown": "\t\n\u2022 解决播放器问题",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				
+				
+				
+				
+				
+				{
 					"title": "1.0.12",
 					"useBoldText": true,
 					"useBottomMargin": true,
