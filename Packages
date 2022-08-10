@@ -1292,6 +1292,25 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jp
 Name: o2
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
+Package: xc.lzsxcl.o2
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 5296
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
+Filename: ./debs/xc.lzsxcl.o2_1.1.1_iphoneos-arm.deb
+Size: 2274312
+MD5sum: acf4ad3479bd3753b3fa643be4fff7fb
+SHA1: d5d830322fbfdd288544bd522219e8f1f250bbf2
+SHA256: e4a6496c95e4dc408cd4001a9fa3a10b2b5c4defa76e7cf736616ecf10add4ef
+Section: Tweaks
+Description: o2pro分屏，一步打通应用间的边界，全新美观便捷的分屏新方式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
+Name: o2 Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
 Package: xc.lzsxcl.s2
 Version: 0.1
 Architecture: iphoneos-arm
