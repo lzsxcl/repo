@@ -234,3 +234,19 @@ Description: [l2用户独享-全局虚拟视频] 很哇塞的一款微信插件
 Author: lzsxcl
 Name: w2
 
+Package: xc.lzsxcl.w2
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 1704
+Filename: ./debs/xc.lzsxcl.w2_0.2.1_iphoneos-arm.deb
+Size: 787998
+MD5sum: daf9e866f0107d256759025cb6275087
+SHA1: 2c38a71e5179da58b6341fd6a8bc967d41e6d422
+SHA256: 727ff6de2b768ef7eaf353a793a2dd100ae1ffc7127f9e6e9a778f9d845084ad
+Section: Tweaks
+Description: 全局分布式虚拟视频
+Author: lzsxcl
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/w2.jpg
+Name: w2 Pro
+
