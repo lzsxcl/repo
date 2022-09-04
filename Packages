@@ -219,22 +219,6 @@ Author: lzsxcl
 Name: t2
 
 Package: xc.lzsxcl.w2
-Version: 0.1.6
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 524
-Filename: ./debs/xc.lzsxcl.w2_0.1.6_iphoneos-arm.deb
-Size: 98466
-MD5sum: 4096c43284fd22a3570f61d54feff82d
-SHA1: 56192e72192079431b878e02691d78c2caa392f0
-SHA256: e269e41a89235bab5bf28982c7e536f59d65109717f7c9b81321cd20c96a6c64
-Section: Tweaks
-Priority: optional
-Description: [l2用户独享-全局虚拟视频] 很哇塞的一款微信插件
-Author: lzsxcl
-Name: w2
-
-Package: xc.lzsxcl.w2
 Version: 0.2.1
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
@@ -246,6 +230,22 @@ SHA1: 2c38a71e5179da58b6341fd6a8bc967d41e6d422
 SHA256: 727ff6de2b768ef7eaf353a793a2dd100ae1ffc7127f9e6e9a778f9d845084ad
 Section: Tweaks
 Description: 全局分布式虚拟视频
+Author: lzsxcl
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/w2.jpg
+Name: w2 Pro
+
+Package: xc.lzsxcl.w2
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 1864
+Filename: ./debs/xc.lzsxcl.w2_0.2.2_iphoneos-arm.deb
+Size: 887842
+MD5sum: 58a6f6213844642c778f91fc0ca916d5
+SHA1: 57d82ee9e50c2dcc26e8f81fb9678d4e360b0892
+SHA256: b0caf064b28a96263e968589608243b3c2e5157f0e7fbde63acc25c2201a413a
+Section: Tweaks
+Description: Use the selected video to replace the real picture of the camera, protect your privacy, call by quickly clicking the volume button +-, quickly click the volume button-+ to switch modes, of course, you can also use the more convenient Activaor, or shake your iphone
 Author: lzsxcl
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/w2.jpg
 Name: w2 Pro
