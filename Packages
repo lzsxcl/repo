@@ -17,18 +17,18 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: CC control center
 
 Package: l2
-Version: 0.5.1
+Version: 0.5.2
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
-Installed-Size: 876
+Installed-Size: 952
 Depends: openssh
-Filename: ./debs/l2_0.5.1_iphoneos-arm.deb
-Size: 168566
-MD5sum: e5ea5746a47494d24e28abf4dfdf3abe
-SHA1: e62748098b04d9071a0a19f4518e6a0b909040ae
-SHA256: 572cbddf98c3d48cbb7d0809fc4da4f657a0a8a1c1c418448d2fad71b6cff413
+Filename: ./debs/l2_0.5.2_iphoneos-arm.deb
+Size: 198066
+MD5sum: e85557fdde314f84ff1d0dc90159973e
+SHA1: 6df54f182cdc5eab1c30dae47162062c6efa88dc
+SHA256: 5038e825217b5891d91eeae5cd678788041335c84e94c17fcf9e1887a86b9022
 Section: System
-Description: 超精准的系统底层虚拟定位 虚拟位置 *可调精准度
+Description: 基于系统底层，超精准可调精准度的虚拟定位
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
@@ -65,16 +65,16 @@ Icon: file:///Applications/Cydia.app/Sections/Toys.png
 Name: applelogo注销动画
 
 Package: xc.lzsxcl.h2
-Version: 7.7.8
+Version: 8.0
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
-Installed-Size: 6604
+Installed-Size: 6520
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, com.creaturecoding.libcspreferences, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
-Filename: ./debs/xc.lzsxcl.h2_7.7.8_iphoneos-arm.deb
-Size: 930594
-MD5sum: a852ba7ab334692a3c497040578d2dce
-SHA1: ba599a91d70c10269e1a428ad7091afc6725a030
-SHA256: c6ba905704d9a461167759706e64e8bbecde8d0c12ed441b0629bb145d9172b1
+Filename: ./debs/xc.lzsxcl.h2_8.0_iphoneos-arm.deb
+Size: 919980
+MD5sum: 645de8113347e4ede8185e91ff704d96
+SHA1: 2bd57c28d2c9d8d2f571ebcf62794d254180f508
+SHA256: 578a4503c88d2d46bea143e4d242a3aa45882e8b2fe1e77366fb6433bc4184c7
 Section: Tweaks
 Description: 打破物理限制,开启全新交互形式
 Author: lzsxcl
@@ -130,44 +130,6 @@ Author: lzsxcl
 Name: libh2sona
 
 Package: xc.lzsxcl.o2
-Version: 1.0.15
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 2248
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11), com.creaturecoding.libcspreferences (>= 1.5.7)
-Filename: ./debs/xc.lzsxcl.o2_1.0.15_iphoneos-arm.deb
-Size: 404922
-MD5sum: f43206d3a2c1a4e5a85ca851999b8a0b
-SHA1: 848da6946e3db7a4972a7a4c984c7a84519b854c
-SHA256: cbf6bb2fb48dcc5463162a767971d71bba94f0b001fb85c848b25895473c46c2
-Section: Tweaks
-Description: o2分屏(支持分屏内使用摄像头、微信视频聊天),一步打通应用间的边界，全新美观便捷的分屏新方式
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
-Name: o2
-Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
-
-Package: xc.lzsxcl.o2
-Version: 1.1.3
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 5264
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
-Filename: ./debs/xc.lzsxcl.o2_1.1.3_iphoneos-arm.deb
-Size: 2266542
-MD5sum: f9aa307a65021447221ef62984e129e9
-SHA1: 4c570d45fe22b86006195c171c55578530f408ee
-SHA256: 589579a1abdd5674214fbef8f3982108055922174bfdf4fc1b8089f380077942
-Section: Tweaks
-Description: o2pro分屏，一步打通应用间的边界，全新美观便捷的分屏新方式
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
-Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
-Name: o2 Pro
-Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
-
-Package: xc.lzsxcl.o2
 Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
@@ -186,19 +148,38 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jp
 Name: o2 Pro
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
+Package: xc.lzsxcl.o2
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 2756
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
+Filename: ./debs/xc.lzsxcl.o2_1.1.5_iphoneos-arm.deb
+Size: 545278
+MD5sum: 97b8874cf6a53db21dbe4fb9b387c605
+SHA1: d26f044b4fb920a051192bf404c55d20efe96457
+SHA256: e4d17fd0319d6accfa3b4b7ccaeecb8d934ab17cce558a498a620caac1f3b458
+Section: Tweaks
+Description: 一步打通应用间的边界，全新美观便捷的分屏新方式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
+Name: o2 Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
 Package: xc.lzsxcl.s2
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Installed-Size: 316
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), com.opa334.ccsupport
-Filename: ./debs/xc.lzsxcl.s2_0.1_iphoneos-arm.deb
-Size: 15934
-MD5sum: 6068570eb86202e19388cf10402495c9
-SHA1: a98377a6ca4d92ae1b02cb90bbfbe96157c458f1
-SHA256: 134ad75ad8c775d7acb943603c0db8e5d10abcf0be1057d12ef2c231b0309553
+Filename: ./debs/xc.lzsxcl.s2_0.2_iphoneos-arm.deb
+Size: 15834
+MD5sum: c6cc9cae08a2ec0e808bccc8fdb97377
+SHA1: c57f4befbee05cbea449d30310de2467805eb9a9
+SHA256: 0aae11ff36e36c4b8a7d23e5e8d24251c747428ca7d8e97c951bf38eb0738598
 Section: Tweaks
-Description: [l2用户独享] 通过控制中心更随心地控制锁屏密码，疫情在外戴口罩，Face Id常常不能准确识别,现在可以通过控制中心临时关闭锁屏密码，人脸识别以及指纹，当你有需要的时候再通过控制中心打开即可。
+Description: 临时绕过锁屏密码，以应对戴口罩人脸无法识别的问题，可通过控制中心添加并开启
 Author: lzsxcl
 Name: s2
 
@@ -217,22 +198,6 @@ Section: Utilities
 Description: 更适合国人的ios进程管理器 iOS14+部分版本 自用
 Author: lzsxcl
 Name: t2
-
-Package: xc.lzsxcl.w2
-Version: 0.2.1
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 1704
-Filename: ./debs/xc.lzsxcl.w2_0.2.1_iphoneos-arm.deb
-Size: 787998
-MD5sum: daf9e866f0107d256759025cb6275087
-SHA1: 2c38a71e5179da58b6341fd6a8bc967d41e6d422
-SHA256: 727ff6de2b768ef7eaf353a793a2dd100ae1ffc7127f9e6e9a778f9d845084ad
-Section: Tweaks
-Description: 全局分布式虚拟视频
-Author: lzsxcl
-Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/w2.jpg
-Name: w2 Pro
 
 Package: xc.lzsxcl.w2
 Version: 0.2.2
