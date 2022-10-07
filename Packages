@@ -1,3 +1,20 @@
+Package: a2
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 944
+Filename: ./debs/a2_0.1_iphoneos-arm.deb
+Size: 172204
+MD5sum: 341893425c387b1d0ca5795a1cd48db1
+SHA1: 095e8621a5cce493d66df8b1062759eb616fb9f8
+SHA256: 86d43cca6cd610c66a68d82326a1c62098416177abcc17c5927d6f87c4a1a2c7
+Section: System
+Description: 让锁屏显示更晚的时间，潜意识地欺骗你已经到了时间点，本质上真实时间比你看到的更早，以避免错过约定的时间
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.a2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/a2.jpg
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.a2/depiction.json
+
 Package: com.lzsxcl.cc
 Version: 0.6.4
 Architecture: iphoneos-arm
@@ -65,23 +82,6 @@ SHA256: b91d9abb36e1a97d02a6725549f3ac794d3835a348365840042021e8210d39bf
 Description: SmartisanT for ios，感谢来自东经119°18′03的同胞提供技术指导，SmartisanT中文，原版Alexman英文多字重Google Sans（字体行距不出错，字体不偏下），小组件如安装后不显示新字体或显示异常（通用 > 语言 > 改为繁体再改为简体 > 即可生效）此字体内含h2braille，如要使用此字体，卸载h2braille，无需单独安装h2braille
 Author: lzsxcl
 Name: SmartisanT
-
-Package: xc.lzsxcl.a2
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: lzsxcl
-Installed-Size: 944
-Filename: ./debs/xc.lzsxcl.a2_0.1_iphoneos-arm.deb
-Size: 172012
-MD5sum: f0cc79539977c695e15657d1d69799dc
-SHA1: 2d300b307d33d15741c6510ad5d05365f271cbb3
-SHA256: 433abca699f0b0773fbf97a88a4b80d54fa9c2fda1cce6486f10d43f0757cb60
-Section: System
-Description: 让锁屏显示更晚的时间，潜意识地欺骗你已经到了时间点，本质上真实时间比你看到的更早，以避免错过约定的时间
-Author: lzsxcl
-Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.a2
-Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/a2.jpg
-Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.a2/depiction.json
 
 Package: xc.lzsxcl.applelogo
 Version: 1.1
