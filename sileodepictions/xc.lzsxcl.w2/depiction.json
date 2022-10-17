@@ -1,0 +1,135 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/lzsxcl/repo/main/assets/Banners/nineanim2.jpg",
+	"tintColor": "#3784d2",
+	"tabs": [
+		{
+			"tabname": "预览",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{160, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Featured Animes",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_1.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_1.png"
+						},
+						{
+							"accessibilityText": "Recently Viewed",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_2.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_2.png"
+						},
+						{
+							"accessibilityText": "Search",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_3.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_3.png"
+						},
+						{
+							"accessibilityText": "Search Results",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_4.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_4.png"
+						},
+						{
+							"accessibilityText": "Featured Animes",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_5.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_5.png"
+						},
+						{
+							"accessibilityText": "Recently Viewed",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_6.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_6.png"
+						},
+						{
+							"accessibilityText": "Search",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_7.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_7.png"
+						},
+						{
+							"accessibilityText": "Search Results",
+							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_8.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_8.png"
+						},						
+						
+						
+						
+						
+						
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{350, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Featured Animes",
+								"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_1.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_1.png"
+							},
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## 核心功能\n以虚拟的适配信息传递给摄像头"
+				},
+				{
+					"title": "获取授权码",
+					"action": "http://m.kuaifaka.net/shop/3Tv5O1",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "开发者",
+					"text": "lzsxcl",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "兼容",
+					"text": "iOS (13.0 - 14.8) 不支持CheckRa1n",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "支持设备",
+					"text": "6s-12pm",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新",
+			"views": [
+				{
+					"title": "开发者很懒",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 不再提供更新日志，有日志页也不会有人看",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},				
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">日志更新于 2022.10.17</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
