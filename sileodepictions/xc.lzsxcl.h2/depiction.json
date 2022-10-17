@@ -4,7 +4,7 @@
 	"tintColor": "#89c997",
 	"tabs": [
 		{
-			"tabname": "基础描述",
+			"tabname": "预览",
 			"views": [
 				{
 					"itemCornerRadius": 6,
@@ -67,7 +67,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## 核心功能\n游戏手势、内购机、隐私空间加密、信号音频、勿扰焦点推送、右侧返回手势、镜像分屏（已独立至o2）、touch防误触手势、h2arc手势、便利贴、状态栏调整、dock与后台调整、以及一堆实用功能，功能太多不过多阐述。具体见插件。"
+					"markdown": "## 功能多得让人无奈\n具体见插件。"
 				},
 				{
 					"title": "获取授权码",
@@ -94,15 +94,9 @@
 				},
 				{
 					"title": "授权限期",
-					"text": "一机一码，永久授权",
+					"text": "一机一码永久",
 					"class": "DepictionTableTextView"
-				},				
-												
-				{
-					"title": "降级旧版",
-					"action": "https://github.com/lzsxcl/repo/tree/main/debs",
-					"class": "DepictionTableButtonView"
-				},
+				},												
 				{
 					"spacing": 16,
 					"class": "DepictionSpacerView"
@@ -115,7 +109,7 @@
 			"class": "DepictionStackView"
 		},
 		{
-			"tabname": "更新日志",
+			"tabname": "更新",
 			"views": [
 				{
 					"title": "提示",
