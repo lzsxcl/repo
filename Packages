@@ -218,6 +218,22 @@ Description: 临时绕过锁屏密码，以应对戴口罩人脸无法识别的�
 Author: lzsxcl
 Name: s2
 
+Package: xc.lzsxcl.s2
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 904
+Depends: com.opa334.ccsupport
+Filename: ./debs/xc.lzsxcl.s2_0.3_iphoneos-arm.deb
+Size: 135094
+MD5sum: a02d1d9459b4e8545ef0e657bac266b6
+SHA1: c8f18f11af88def848035790e5ad8c7a873aba85
+SHA256: 3a9789d0874684517232a2ac94f00dd4a1fb1a2a539bc9b6dc1ed25de4bdb245
+Section: Tweaks
+Description: 临时绕过锁屏密码，以应对戴口罩人脸无法识别的问题，可通过控制中心添加并开启
+Author: lzsxcl
+Name: s2
+
 Package: xc.lzsxcl.t2
 Version: 0.2
 Architecture: iphoneos-arm
@@ -260,6 +276,22 @@ Size: 273030
 MD5sum: b7b1b4b04f0315c3b018e04afc4d9178
 SHA1: a90d0f6c7202713892a975ba8f1da8510dbcd72b
 SHA256: ecddfb26f1e1610386f6ada16a590528180efd8659c4b527ad90f0031b3d0997
+Section: Tweaks
+Description: 使用选定的视频来替换真实的视频或拍照信息，保护隐私，通过快速点按音量按钮+-调出，快速点按音量键-+切换模式\n\n当然，也可以使用更方便的Activaor，或摇动iPhone(限分布式)，白嫖党将在倒计时结束后，自动清空微信聊天记录，抱着侥幸心理的可以试试 Use the selected video to replace the real video or photo information to protect privacy.Press the volume button+- quickly to call it up. and press the volume button -+quickly to switch modes. Of course.you can also use the more convenient Activaor.or shake the iPhone (distributed only).White whoring party will automatically clear the WeChat chat record after the countdown is over.You can try it if you are lucky
+Author: lzsxcl
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/w2.jpg
+Name: w2 Pro
+
+Package: xc.lzsxcl.w2
+Version: 0.2.4
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 1368
+Filename: ./debs/xc.lzsxcl.w2_0.2.4_iphoneos-arm.deb
+Size: 276396
+MD5sum: 7142628c9c72926afe48eec6b594f7b6
+SHA1: 9451daecd693b390e45dcc83d414d50d72a22cfd
+SHA256: 5cd8d0654688004a74477e4b9662c20748799ec9899b316ba40c37121dd4f926
 Section: Tweaks
 Description: 使用选定的视频来替换真实的视频或拍照信息，保护隐私，通过快速点按音量按钮+-调出，快速点按音量键-+切换模式\n\n当然，也可以使用更方便的Activaor，或摇动iPhone(限分布式)，白嫖党将在倒计时结束后，自动清空微信聊天记录，抱着侥幸心理的可以试试 Use the selected video to replace the real video or photo information to protect privacy.Press the volume button+- quickly to call it up. and press the volume button -+quickly to switch modes. Of course.you can also use the more convenient Activaor.or shake the iPhone (distributed only).White whoring party will automatically clear the WeChat chat record after the countdown is over.You can try it if you are lucky
 Author: lzsxcl
