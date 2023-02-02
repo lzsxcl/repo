@@ -202,6 +202,25 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jp
 Name: o2 Pro
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
+Package: xc.lzsxcl.o2
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 2512
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/xc.lzsxcl.o2_2.0_iphoneos-arm.deb
+Size: 489666
+MD5sum: 1af7ceffbf2d0909745d247511bfd50e
+SHA1: a497fc89331aaae8cb0912954467ed2cc9731dd2
+SHA256: 3b6da75bc0693c7a4c912f19443fb83ed913c3de203a6cb62a97bff598bafc93
+Section: Tweaks
+Description: 致敬·锤子OS·One Step 一步打通应用间的边界，全新美观便捷的分屏新方式
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jpg
+Name: o2 Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
 Package: xc.lzsxcl.s2
 Version: 0.2
 Architecture: iphoneos-arm
@@ -233,6 +252,54 @@ Section: Tweaks
 Description: 临时绕过锁屏密码，以应对戴口罩人脸无法识别的问题，可通过控制中心添加并开启
 Author: lzsxcl
 Name: s2
+
+Package: xc.lzsxcl.s2
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 780
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/xc.lzsxcl.s2_0.5_iphoneos-arm.deb
+Size: 108768
+MD5sum: d586d32355edc492ce97d0cc6269bf46
+SHA1: 194d3316fbf52a73ab85eb415343f214626039f9
+SHA256: cf904733d165f2a7dbac38961a8d67c2385a8d987345d59251c09a04db8e5ab5
+Section: lzsxcl
+Description: 兼容 iOS_13-15(XinaA15)，从控制中心随心地设定倒计时，倒计时结束前可以临时绕过人脸，绕过密码解锁，以应对因口罩、躲被窝无法解锁，或有时候真的很讨厌解锁，即便捷又不破坏人脸解锁，当然你也可在一些特定条件中触发。
+Author: lzsxcl
+Name: S2
+
+Package: xc.lzsxcl.s2
+Version: 0.5.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 812
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/xc.lzsxcl.s2_0.5.1_iphoneos-arm.deb
+Size: 110224
+MD5sum: ca3661ca6a545d2aa41fc78f36536950
+SHA1: a0300e2ee521fb5cd767f062076a89851ebf66fe
+SHA256: 76c0442e8a9950de5f193bc8afd65cd92ba71c4af7a7b1a1a9826bbc37515427
+Section: lzsxcl
+Description: 兼容 iOS_13-15(XinaA15)，从控制中心随心地设定倒计时，倒计时结束前可以临时绕过人脸，绕过密码解锁，以应对因口罩、躲被窝无法解锁，或有时候真的很讨厌解锁，即便捷又不破坏人脸解锁，当然你也可在一些特定条件中触发。
+Author: lzsxcl
+Name: S2
+
+Package: xc.lzsxcl.s2
+Version: 0.5.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 812
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/xc.lzsxcl.s2_0.5.2_iphoneos-arm.deb
+Size: 111108
+MD5sum: d9ec79b2dfaf880090210696196af6f9
+SHA1: 79637038b0480eea96ea18c7ce675b01b6785279
+SHA256: df45b5f95902ccf7bb7830c89758744f47b080d0011868acc8fee7a4dfb3b57a
+Section: lzsxcl
+Description: 兼容 iOS_13-15(XinaA15)，从控制中心随心地设定倒计时，倒计时结束前可以临时绕过人脸，绕过密码解锁，以应对因口罩、躲被窝无法解锁，或有时候真的很讨厌解锁，即便捷又不破坏人脸解锁，当然你也可在一些特定条件中触发。
+Author: lzsxcl
+Name: S2
 
 Package: xc.lzsxcl.t2
 Version: 0.2
