@@ -164,6 +164,22 @@ Tag: role::developer
 Author: lzsxcl
 Name: lib2
 
+Package: xc.lzsxcl.lib2
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 148
+Filename: ./debs/xc.lzsxcl.lib2_0.1.1_iphoneos-arm.deb
+Size: 9874
+MD5sum: 244b4f56da6924e1173d4b518cead046
+SHA1: 89d415df6c446507c1b42e7cac156b48574ff4a5
+SHA256: c749ee440c7349a1f472fac673cc3db266d544e8404f2285712934c963f2836c
+Section: System
+Description: 靓仔瘦 @lzsxcl 插件依赖组件
+Tag: role::developer
+Author: lzsxcl
+Name: lib2
+
 Package: xc.lzsxcl.libh2sona
 Version: 0.0.4
 Architecture: iphoneos-arm
