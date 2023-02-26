@@ -272,6 +272,24 @@ Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/o2.jp
 Name: o2 Pro
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
+Package: xc.lzsxcl.p2
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 1956
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/xc.lzsxcl.p2_0.1_iphoneos-arm.deb
+Size: 1542024
+MD5sum: 75be593486475c61b17206b1da6e7763
+SHA1: f7679857a200c20fbdedffaff0f567531133d716
+SHA256: 7591395abbcddb24d292b4d8f85baed20880ca0392671436a2b9c88adc0acd3b
+Section: Control Center (Modules)
+Description: w2 Pro 声音控制器
+Tag: purpose::extension, compatible_min::ios13
+Author: lzsxcl
+Icon: file:///Library/ControlCenter/Bundles/P2.bundle/AppIcon-large.png
+Name: P2
+
 Package: xc.lzsxcl.s2
 Version: 0.2
 Architecture: iphoneos-arm
