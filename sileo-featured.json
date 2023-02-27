@@ -10,4 +10,12 @@
         "hideShadow": false
     }    
   ]
+  "banners": [
+    {
+        "url": "https://raw.githubusercontent.com/lzsxcl/repo/main/assets/Banners/nineanim2.png",
+        "title": "靓仔瘦 ©lzsxcl",
+        "package": "xc.lzsxcl.o2",
+        "hideShadow": false
+    }    
+  ]
 }
