@@ -4,16 +4,23 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg",
+        "url": "https://raw.githubusercontent.com/lzsxcl/repo/main/assets/Banners/nineanim2.png",
         "title": "靓仔瘦 ©lzsxcl",
         "package": "xc.lzsxcl.o2",
         "hideShadow": false
     }    
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
     {
-      "url": "http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg",
-      "title": "靓仔瘦 ©lzsxcl",
-      "package": "xc.lzsxcl.w2",
-      "hideShadow": false
-  } 
+        "url": "https://raw.githubusercontent.com/lzsxcl/repo/main/assets/Banners/nineanim2.png",
+        "title": "靓仔瘦 ©lzsxcl",
+        "package": "xc.lzsxcl.w2",
+        "hideShadow": false
+    }    
   ]
 }
