@@ -34,24 +34,7 @@
 							"accessibilityText": "Featured Animes",
 							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_5.png",
 							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_5.png"
-						},
-						{
-							"accessibilityText": "Recently Viewed",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_6.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_6.png"
-						},
-						{
-							"accessibilityText": "Search",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_7.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_7.png"
-						},
-						{
-							"accessibilityText": "Search Results",
-							"url": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_8.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/lzsxcl/repo/main/depictions/xc.lzsxcl.o2/screenshots/screenshot_8.png"
 						},						
-						
-						
 						
 						
 						
@@ -89,7 +72,7 @@
 				},
 				{
 					"title": "兼容",
-					"text": "iOS (13.0 - 15.1.1-XinaA15)",
+					"text": "13.0 - 15.1.1-XinaA15",
 					"class": "DepictionTableTextView"
 				},
 				{
