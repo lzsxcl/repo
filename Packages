@@ -294,12 +294,12 @@ Version: 2.0.6
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Installed-Size: 2340
-Depends: mobilesubstrate, preferenceloader, applist, xc.lzsxcl.lib2
+Depends: mobilesubstrate, preferenceloader, applist, xc.lzsxcl.lib2 (>= 0.1.2)
 Filename: ./debs/xc.lzsxcl.o2_2.0.6_iphoneos-arm.deb
-Size: 485290
-MD5sum: 92c3e28a118f70944d134d8a4aa83823
-SHA1: f6f381ef1089aa6fade24432a49245a582649b56
-SHA256: 16a7fcbeb71b1441ffc1f7c382807384c2f3f48542d013058b4286ddd42f4a8b
+Size: 485856
+MD5sum: d62a2cf0da9fd681280e8de656eb0acd
+SHA1: 127d94d286818a6f9f2857f0a9f8ff5bc4306c65
+SHA256: ef03cf0e826c78fe774a0d813288da48b47c8e379bba78addff3f0d09556878c
 Section: Tweaks
 Description: 致敬·锤子OS·One Step 一步打通应用间的边界 全新美观便捷的分屏新方式 非作者源/BigBoss源安装 有机会获得清空微信聊天记录体验 由侥幸心理所产生的一切后果本人概不负责
 Author: lzsxcl
@@ -331,12 +331,12 @@ Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Installed-Size: 1956
-Depends: mobilesubstrate, com.opa334.ccsupport
+Depends: mobilesubstrate, com.opa334.ccsupport, xc.lzsxcl.lib2 (>= 0.1.2)
 Filename: ./debs/xc.lzsxcl.p2_0.1.1_iphoneos-arm.deb
-Size: 1542164
-MD5sum: bc05004f0ecedafd5b78946b4fa47509
-SHA1: 4b7a5e1e7834b329bcbeeb68d5a72233ab96cd36
-SHA256: 2ddbf09a2f9ee8c25ca6e49698048949ed3124abb883f92bac96b6cd243cd111
+Size: 1541868
+MD5sum: e81232f1f57e03e16b3af060eb894c0e
+SHA1: 8f1eb4de464f960bb93b8ac7e266daf194c995ae
+SHA256: 1fcf9e3cd1e20cbe7f001da9fe4facd5f8faf609333c34fff570f2c90241cd3d
 Section: Control Center (Modules)
 Description: w2 Pro 声音控制器
 Tag: purpose::extension, compatible_min::ios13
@@ -445,12 +445,12 @@ Version: 0.5.5
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Installed-Size: 760
-Depends: mobilesubstrate, com.opa334.ccsupport, xc.lzsxcl.lib2
+Depends: mobilesubstrate, com.opa334.ccsupport, xc.lzsxcl.lib2 (>= 0.1.2)
 Filename: ./debs/xc.lzsxcl.s2_0.5.5_iphoneos-arm.deb
-Size: 92750
-MD5sum: c940005ddc9e0914b1a443787de70e6c
-SHA1: a4e945bf03e7f4946b3399b2a5d15ea5ccb5e15c
-SHA256: cec961265510154995de4c5f1cfb350a0e5f55de377330bd7ec3fb21688bb75d
+Size: 92832
+MD5sum: ebd079b2f23b26eefeebaad7211c60a2
+SHA1: 22ba73cf7eed907cba03aa7bf826f00aa9b1d8a2
+SHA256: 8846ca0e938a94a47e3375f7b7f9ef884b5b0a6563774afe86144b3ec0a7c1cf
 Section: lzsxcl
 Description: 兼容 iOS_13-15(XinaA15)，从控制中心随心地设定倒计时，倒计时结束前可以临时绕过人脸，绕过密码解锁，以应对因口罩、躲被窝无法解锁，或有时候真的很讨厌解锁，即便捷又不破坏人脸解锁，当然你也可在一些特定条件中触发。
 Author: lzsxcl
@@ -543,12 +543,12 @@ Version: 0.3.1
 Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Installed-Size: 1120
-Depends: mobilesubstrate, xc.lzsxcl.lib2
+Depends: mobilesubstrate, xc.lzsxcl.lib2 (>= 0.1.2)
 Filename: ./debs/xc.lzsxcl.w2_0.3.1_iphoneos-arm.deb
-Size: 225480
-MD5sum: a06fb8ebc9fd2fcd268b255d83eaba3e
-SHA1: 8add48715f1ce4ef31de0369610e75f5e38f5de0
-SHA256: 8abf3843baa8ddd1bd3add8c2d4299c3b55ff108be4f1e3ab777a335ea471682
+Size: 225002
+MD5sum: 3bcbac58f680fb718f8babc8f0852f19
+SHA1: 5186ac88536a25999b5d20e6d55e461bda5cfbb0
+SHA256: 60091cba0e929c8ba9aa369b2f8cd7f9a69303fe951917702a0c26f56d3d6f4c
 Section: Tweaks
 Description: 使用选定的视频来替换真实的视频或拍照信息，保护隐私，通过快速点按音量按钮+-调出，快速点按音量键-+切换模式\n\n当然，也可以使用更方便的Activaor，或摇动iPhone(限分布式)，白嫖党有机会获得·自动清空微信聊天记录体验，抱着侥幸心理的可以试试 Use the selected video to replace the real video or photo information to protect privacy.Press the volume button+- quickly to call it up. and press the volume button -+quickly to switch modes. Of course.you can also use the more convenient Activaor.or shake the iPhone (distributed only).White whoring party will automatically clear the WeChat chat record after the countdown is over.You can try it if you are lucky
 Author: lzsxcl
