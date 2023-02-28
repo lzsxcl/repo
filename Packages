@@ -186,12 +186,12 @@ Architecture: iphoneos-arm
 Maintainer: lzsxcl
 Installed-Size: 148
 Filename: ./debs/xc.lzsxcl.lib2_0.1.2_iphoneos-arm.deb
-Size: 9902
-MD5sum: d03f5c224a77aa353753dfb6518aad02
-SHA1: 10940cf6052cb98876536083c406e86c100c4b62
-SHA256: d981a8638a06438f0070ba1e4c5cbc2d9e72e099250e48059d7c570f169e8f00
-Section: System
-Description: 靓仔瘦 @lzsxcl 插件依赖组件
+Size: 9994
+MD5sum: af8d2d8a0aeaa0d1fcc921e021fa25c5
+SHA1: dabb3a63589929b131225858f43124e4503db3f7
+SHA256: 73d41fafb6a0473ee9030407ce6979221ed2ff3c6c383dc16eb1aaec96cb1d39
+Section: 靓仔瘦·lzsxcl 插件依赖组件
+Description: 如果有一天，网暴脑瘫傻逼都用我的插件，你要知道，那是给你们做的
 Tag: role::developer
 Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/lzsxcl.jpg
