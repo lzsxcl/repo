@@ -4,10 +4,16 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/lzsxcl/repo/main/assets/Banners/nineanim2.png",
-        "title": "靓仔瘦 ©lzsxcl",
+        "url": "http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg",
+        "title": "o2 Pro ©lzsxcl",
         "package": "xc.lzsxcl.o2",
         "hideShadow": false
     }    
+    {
+        "url": "http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg",
+        "title": "w2 Pro ©lzsxcl",
+        "package": "xc.lzsxcl.w2",
+        "hideShadow": false
+    } 
   ]
 }
