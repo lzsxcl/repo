@@ -234,6 +234,24 @@ Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/lzsxcl.jpg
 Name: lib2
 
+Package: xc.lzsxcl.lib2
+Version: 0.1.5
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/xc.lzsxcl.lib2_0.1.5_iphoneos-arm.deb
+Size: 14022
+MD5sum: a6480e21e87c6191aafd051ab67480aa
+SHA1: e7cd5ec8995da318527d77cb6fd1bd3333d5b0a8
+SHA256: 25ec425dac1bf1699f98ea93bba6f98e9633fdde5c5ee1df0ce42e716937ae5d
+Section: 数字2系列插件依赖组件
+Description: 如果有一天，网暴脑瘫傻逼都在用我的插件，你要知道，那是给你们做的
+Tag: role::developer
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/lzsxcl.jpg
+Name: lib2
+
 Package: xc.lzsxcl.libh2sona
 Version: 0.0.4
 Architecture: iphoneos-arm
