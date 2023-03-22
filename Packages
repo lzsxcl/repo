@@ -216,6 +216,24 @@ Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/lzsxcl.jpg
 Name: lib2
 
+Package: xc.lzsxcl.lib2
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debs/xc.lzsxcl.lib2_0.1.4_iphoneos-arm.deb
+Size: 16274
+MD5sum: 067211b6be640a30e7f35067f923ab51
+SHA1: 2375c1f577f7ec2f3ce93ae25329ba78638b4e81
+SHA256: 1ba2cbc76b983d90337ba944c25daec8d69b7fee1427b70ecad4ec984948ec15
+Section: 数字2系列插件依赖组件
+Description: 如果有一天，网暴脑瘫傻逼都在用我的插件，你要知道，那是给你们做的
+Tag: role::developer
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/lzsxcl.jpg
+Name: lib2
+
 Package: xc.lzsxcl.libh2sona
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -362,6 +380,23 @@ Tag: purpose::extension, compatible_min::ios13
 Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/p2.jpg
 Name: p2
+
+Package: xc.lzsxcl.r2
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 592
+Depends: mobilesubstrate, xc.lzsxcl.lib2 (>= 0.1.4)
+Filename: ./debs/xc.lzsxcl.r2_0.1_iphoneos-arm.deb
+Size: 128220
+MD5sum: 38669f72c2196447aed2e031599061a1
+SHA1: fb4ed44e4b6c387b48b4489f56b78d7208d7a9b0
+SHA256: 6555b82dd5a1d07a57188b9683e57325fa8b68e82e123e882073027a9b045986
+Section: Tweaks
+Description: 便捷访问新方式 free test
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/r2.png
+Name: r2
 
 Package: xc.lzsxcl.s2
 Version: 0.2
@@ -602,6 +637,23 @@ Size: 130838
 MD5sum: c29b97b9deb5293828c64672758314b9
 SHA1: ed245a6d43948a2e9e6cf31dd94a9d36c5aa69b9
 SHA256: 2e1294b5c69ca49a2def62341ae9adac5b89fbcd572cc8b8ac35948f519b981b
+Section: Tweaks
+Description: 使用选定的虚拟视频来替换真实的摄像头或拍照信息，保护隐私，广泛用于微信恶搞视频聊天，一些平台视频搬运，非作者源/BigBoss源安装数字2系列插件，或借助第三方工具修改此插件参数，有机会获得清空微信聊天记录体验，由侥幸心理所产生的一切后果，本人概不负责，需使用者自行承担。
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg
+Name: w2 Pro
+
+Package: xc.lzsxcl.w2
+Version: 0.3.4
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 668
+Depends: mobilesubstrate, xc.lzsxcl.lib2 (>= 0.1.4)
+Filename: ./debs/xc.lzsxcl.w2_0.3.4_iphoneos-arm.deb
+Size: 131820
+MD5sum: 15d9f7c2ba0e4c168da8bd1d396b09d6
+SHA1: 634f4a400ae2122cd2da5ce9f765e3aadd9833b8
+SHA256: 7034c52615b51445ffa6115d57f3af25451bd4b0cc688ec0b13469873d58f5fd
 Section: Tweaks
 Description: 使用选定的虚拟视频来替换真实的摄像头或拍照信息，保护隐私，广泛用于微信恶搞视频聊天，一些平台视频搬运，非作者源/BigBoss源安装数字2系列插件，或借助第三方工具修改此插件参数，有机会获得清空微信聊天记录体验，由侥幸心理所产生的一切后果，本人概不负责，需使用者自行承担。
 Author: lzsxcl
