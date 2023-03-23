@@ -402,10 +402,10 @@ Maintainer: lzsxcl
 Installed-Size: 2340
 Depends: mobilesubstrate, preferenceloader, applist, xc.lzsxcl.lib2 (>= 0.1.5)
 Filename: ./debs/xc.lzsxcl.o2_2.1_iphoneos-arm.deb
-Size: 485806
-MD5sum: 7aa5a78ffd8b1025c01991b0e4c7ed1b
-SHA1: c25fa7352788572e74ca7f57423b3ad746aba273
-SHA256: bcd8fe5de5e56147f797ffdc446efb58abed1b5cdf887c6579e2159917f70e28
+Size: 485118
+MD5sum: db34772634c2656c8d94dfc29ea06430
+SHA1: 630bb4fa7a7ce30794a32cb19e683d8a3e76d2de
+SHA256: e42f40cdb4ae1443ca07d20b20cf88947540117019dd849644a86e3c8d564c89
 Section: Tweaks
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。非作者源/BigBoss源安装数字2系列插件，或借助第三方工具修改此插件参数，有机会获得清空微信聊天记录体验，由侥幸心理所产生的一切后果，本人概不负责，需使用者自行承担。
 Author: lzsxcl
