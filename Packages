@@ -15,6 +15,22 @@ Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.a2
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/a2.jpg
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.a2/depiction.json
 
+Package: a2
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 552
+Depends: mobilesubstrate, xc.lzsxcl.lib2 (>= 0.1.5)
+Filename: ./debs/a2_0.3_iphoneos-arm.deb
+Size: 130928
+MD5sum: a5ac5b0c594fdc4dc1e52a6518853ef9
+SHA1: e0adfc5393060cb8e8d0dbc732734c55cf82aac1
+SHA256: 713416ea4e04ffeebeb7237fdbf8abfdafbb323399f0be5541ef8de12590d8ae
+Section: System
+Description: 让锁屏显示更晚的时间，潜意识地欺骗你已经到了时间点，本质上真实时间比你看到的更早，以避免错过约定的时间
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/a2.png
+
 Package: com.lzsxcl.cc
 Version: 0.6.4
 Architecture: iphoneos-arm
@@ -68,6 +84,22 @@ Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.l2
 Icon: https://raw.githubusercontent.com/lzsxcl/repo/main/assets/TweakIcons/l2.jpg
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.l2/depiction.json
+
+Package: l2
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 544
+Depends: openssh, mobilesubstrate, xc.lzsxcl.lib2 (>= 0.1.5)
+Filename: ./debs/l2_0.6_iphoneos-arm.deb
+Size: 96512
+MD5sum: e67853e9774463b6ef1c59aa2dd36031
+SHA1: fe0d161687c8de35def74d2341448cde0f3bed4b
+SHA256: 53830c225aa0fb0ea36ec4192a1f306fbe1ea1ea15acaa99ea0b79d50940e8e8
+Section: Tweaks
+Description: 反检测，基于系统底层，超精准的安全虚拟定位。非作者源/BigBoss源安装数字2系列插件，或借助第三方工具修改此插件参数，有机会获得清空微信聊天记录体验，由侥幸心理所产生的一切后果，本人概不负责，需使用者自行承担。
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/l2.png
 
 Package: xc.lzsxcl.SmartisanT
 Version: 0.3
@@ -363,6 +395,25 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2 Pro
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
+Package: xc.lzsxcl.o2
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 2340
+Depends: mobilesubstrate, preferenceloader, applist, xc.lzsxcl.lib2 (>= 0.1.5)
+Filename: ./debs/xc.lzsxcl.o2_2.1_iphoneos-arm.deb
+Size: 485806
+MD5sum: 7aa5a78ffd8b1025c01991b0e4c7ed1b
+SHA1: c25fa7352788572e74ca7f57423b3ad746aba273
+SHA256: bcd8fe5de5e56147f797ffdc446efb58abed1b5cdf887c6579e2159917f70e28
+Section: Tweaks
+Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。非作者源/BigBoss源安装数字2系列插件，或借助第三方工具修改此插件参数，有机会获得清空微信聊天记录体验，由侥幸心理所产生的一切后果，本人概不负责，需使用者自行承担。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
 Package: xc.lzsxcl.p2
 Version: 0.1
 Architecture: iphoneos-arm
@@ -412,6 +463,23 @@ SHA1: fb4ed44e4b6c387b48b4489f56b78d7208d7a9b0
 SHA256: 6555b82dd5a1d07a57188b9683e57325fa8b68e82e123e882073027a9b045986
 Section: Tweaks
 Description: 便捷访问新方式 free test
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/r2.png
+Name: r2
+
+Package: xc.lzsxcl.r2
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 592
+Depends: mobilesubstrate, xc.lzsxcl.lib2 (>= 0.1.5)
+Filename: ./debs/xc.lzsxcl.r2_0.2_iphoneos-arm.deb
+Size: 128390
+MD5sum: abf2106b80b4f107ef7ce4ba09d0735b
+SHA1: f430bb2e46453684a3364f51552f29ba170955d8
+SHA256: 07d104d5d91c2df0f6572c1ab2bf9681cf0e8cd32e6b21a7bd4ac634fd9dd6ae
+Section: Tweaks
+Description: 便捷访问新方式 free test 非作者源/BigBoss源安装数字2系列插件，或借助第三方工具修改此插件参数，有机会获得清空微信聊天记录体验，由侥幸心理所产生的一切后果，本人概不负责，需使用者自行承担。
 Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/r2.png
 Name: r2
@@ -546,6 +614,23 @@ Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/s2.jpg
 Name: s2
 
+Package: xc.lzsxcl.s2
+Version: 0.6.2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 760
+Depends: mobilesubstrate, com.opa334.ccsupport, xc.lzsxcl.lib2 (>= 0.1.5)
+Filename: ./debs/xc.lzsxcl.s2_0.6.2_iphoneos-arm.deb
+Size: 93212
+MD5sum: 7a4f6ee524bd74908caf2a3d17ad1fbf
+SHA1: b07183d2a8774ae4c332911af4f48df86bd1e34f
+SHA256: 7ad87e25a0832858c76ab33a94b4414ae3e1af9d8fe4dffb4976cd5d638607cb
+Section: Tweaks
+Description: 临时绕过人脸，绕过密码解锁，以应对因口罩、躲被窝无法解锁，或有时候真的很讨厌解锁，即便捷又不破坏人脸解锁，从控制中心随心地设定倒计时以执行，当然你也可在一些特定条件中触发。非作者源/BigBoss源安装数字2系列插件，或借助第三方工具修改此插件参数，有机会获得清空微信聊天记录体验，由侥幸心理所产生的一切后果，本人概不负责，需使用者自行承担。
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/s2.jpg
+Name: s2
+
 Package: xc.lzsxcl.t2
 Version: 0.2
 Architecture: iphoneos-arm
@@ -672,6 +757,23 @@ Size: 131820
 MD5sum: 15d9f7c2ba0e4c168da8bd1d396b09d6
 SHA1: 634f4a400ae2122cd2da5ce9f765e3aadd9833b8
 SHA256: 7034c52615b51445ffa6115d57f3af25451bd4b0cc688ec0b13469873d58f5fd
+Section: Tweaks
+Description: 使用选定的虚拟视频来替换真实的摄像头或拍照信息，保护隐私，广泛用于微信恶搞视频聊天，一些平台视频搬运，非作者源/BigBoss源安装数字2系列插件，或借助第三方工具修改此插件参数，有机会获得清空微信聊天记录体验，由侥幸心理所产生的一切后果，本人概不负责，需使用者自行承担。
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg
+Name: w2 Pro
+
+Package: xc.lzsxcl.w2
+Version: 0.3.5
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 668
+Depends: mobilesubstrate, xc.lzsxcl.lib2 (>= 0.1.5)
+Filename: ./debs/xc.lzsxcl.w2_0.3.5_iphoneos-arm.deb
+Size: 131566
+MD5sum: c93f88ece4e110c4ee7c5423a4b58b77
+SHA1: 3444edba209bd58f651109d65e850190ee468055
+SHA256: 833acfc591108ecfdd8e4ae88fe5ecf70469d0bc4431f088f7667f5c41e20c94
 Section: Tweaks
 Description: 使用选定的虚拟视频来替换真实的摄像头或拍照信息，保护隐私，广泛用于微信恶搞视频聊天，一些平台视频搬运，非作者源/BigBoss源安装数字2系列插件，或借助第三方工具修改此插件参数，有机会获得清空微信聊天记录体验，由侥幸心理所产生的一切后果，本人概不负责，需使用者自行承担。
 Author: lzsxcl
