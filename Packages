@@ -52,6 +52,26 @@ Author: opa334
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Name: CCSupport
 
+Package: ellekit
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: Evelyn
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_0.3_iphoneos-arm64.deb
+Size: 376852
+MD5sum: 00e74d2427855a5a0e7cbad805579a08
+SHA1: 7e09ff535ee0ac3bba52b1f13124296ca5c07887
+SHA256: 31f769b78712661c07632247db117618d989206bca418e2f071404f10238f9c4
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+ ElleKit tweak injection libraries and loader. Currently in beta,
+ does not currently include a LaunchDaemon.
+Author: Evelyn
+Name: ElleKit (Beta)
+
 Package: l2
 Version: 0.6
 Architecture: iphoneos-arm
@@ -67,6 +87,26 @@ Section: Tweaks
 Description: 反检测，基于系统底层，超精准的安全虚拟定位。非作者源/BigBoss源安装数字2系列插件，或借助第三方工具修改此插件参数，有机会获得清空微信聊天记录体验，由侥幸心理所产生的一切后果，本人概不负责，需使用者自行承担。
 Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/l2.png
+
+Package: preferenceloader
+Version: 2.2.6
+Architecture: iphoneos-arm64
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 308
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/preferenceloader_2.2.6_iphoneos-arm64.deb
+Size: 33578
+MD5sum: b364b449b206945a99341847874dfe08
+SHA1: 662c84972e1c6fa61b7658eb6c10dd697eb3914d
+SHA256: 69ec3c51ec6b3ed0c0f8f56a9fa77dd9e54ae9f68c98ce1ae395244cd3bd8f6c
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dustinhowett
+Name: PreferenceLoader-Rootless
 
 Package: xc.lzsxcl.SmartisanT
 Version: 0.3
