@@ -1,8 +1,9 @@
-Origin: lzsxcl's Repo
-Label: lzsxcl's Repo
+Origin: opa334's Repo
+Label: opa334's Repo
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
+Codename: opa334
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: lzsxcl's Repo
+Description: opa334's Cydia Repository
+Icon: file://CydiaIcon.png
