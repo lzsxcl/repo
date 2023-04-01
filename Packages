@@ -33,6 +33,25 @@ Description: 此版本为rootless测试版，请先勿安装，等待我的反�
 Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/a2.png
 
+Package: a2
+Version: 0.3.1
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 552
+Depends: mobilesubstrate, xc.lzsxcl.lib2 (>= 0.1.5)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: ./debs/a2_0.3.1_iphoneos-arm64.deb
+Size: 130976
+MD5sum: 0426dce2895d2fd529c010b968f74fb2
+SHA1: e261de9ae884649b6d269864a3b4a94f468b1dfa
+SHA256: d78341cc9f480f2d2bf80e23765ae37636acd74a0ea0bd4f6b24cb6256849a33
+Section: System
+Description: 此版本为rootless测试版，请先勿安装，等待我的反馈。让锁屏显示更晚的时间，潜意识地欺骗你已经到了时间点，本质上真实时间比你看到的更早，以避免错过约定的时间
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/a2.png
+
 Package: com.lzsxcl.cc
 Version: 0.6.4
 Architecture: iphoneos-arm
