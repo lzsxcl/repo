@@ -52,6 +52,24 @@ Description: 此版本为rootless测试版，请先勿安装，等待我的反�
 Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/a2.png
 
+Package: a2
+Version: 0.3.2
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 552
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: ./debs/a2_0.3.2_iphoneos-arm64.deb
+Size: 130914
+MD5sum: d3d51700d30d500e8eafcee92c9d608d
+SHA1: 6b08f1865a0258042eab1c05b7606cb59dcc1249
+SHA256: d47fbbf3e4c953f5b2a20be00c4bdfa024fe4cc174ce08e113ff87e5286c9c75
+Section: System
+Description: 此版本为rootless测试版，请先勿安装，等待我的反馈。让锁屏显示更晚的时间，潜意识地欺骗你已经到了时间点，本质上真实时间比你看到的更早，以避免错过约定的时间
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/a2.png
+
 Package: com.lzsxcl.cc
 Version: 0.6.4
 Architecture: iphoneos-arm
@@ -208,24 +226,6 @@ SHA1: e7cd5ec8995da318527d77cb6fd1bd3333d5b0a8
 SHA256: 25ec425dac1bf1699f98ea93bba6f98e9633fdde5c5ee1df0ce42e716937ae5d
 Section: 数字2系列插件依赖组件
 Description: 如果有一天，网暴脑瘫傻逼都在用我的插件，你要知道，那是给你们做的
-Tag: role::developer
-Author: lzsxcl
-Icon: http://cdn.share.lzsxcl.cc/Tweak/lzsxcl.jpg
-Name: lib2
-
-Package: xc.lzsxcl.lib2
-Version: 0.1.6
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/xc.lzsxcl.lib2_0.1.6_iphoneos-arm64.deb
-Size: 14168
-MD5sum: 7e200e0913181e01d301026d9eb2db76
-SHA1: c475927a01036cd5d495d0625c133be21d6cc8e2
-SHA256: 9f4f941d0ae35cf58cfa33df2e695da4609609612d5f78ca0994af215b017910
-Section: 数字2系列插件依赖组件
-Description: 此版本为rootless测试版，请先勿安装，等待我的反馈。如果有一天，网暴脑瘫傻逼都在用我的插件，你要知道，那是给你们做的
 Tag: role::developer
 Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/lzsxcl.jpg
