@@ -194,6 +194,24 @@ Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/lzsxcl.jpg
 Name: lib2
 
+Package: xc.lzsxcl.lib2
+Version: 0.1.6
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/xc.lzsxcl.lib2_0.1.6_iphoneos-arm64.deb
+Size: 14168
+MD5sum: 7e200e0913181e01d301026d9eb2db76
+SHA1: c475927a01036cd5d495d0625c133be21d6cc8e2
+SHA256: 9f4f941d0ae35cf58cfa33df2e695da4609609612d5f78ca0994af215b017910
+Section: 数字2系列插件依赖组件
+Description: 此版本为rootless测试版，请先勿安装，等待我的反馈。如果有一天，网暴脑瘫傻逼都在用我的插件，你要知道，那是给你们做的
+Tag: role::developer
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/lzsxcl.jpg
+Name: lib2
+
 Package: xc.lzsxcl.libh2sona
 Version: 0.0.4
 Architecture: iphoneos-arm
