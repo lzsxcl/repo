@@ -14,79 +14,22 @@ Description: 让锁屏显示更晚的时间，潜意识地欺骗你已经到了�
 Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/a2.png
 
-Package: a2
-Version: 0.3
+Package: a2.rootless
+Version: 0.5
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
-Installed-Size: 552
-Depends: mobilesubstrate, xc.lzsxcl.lib2 (>= 0.1.5)
-Conflicts: com.ioscreatix.silo
-Replaces: com.ioscreatix.silo
-Provides: com.ioscreatix.silo
-Filename: ./debs/a2_0.3_iphoneos-arm64.deb
-Size: 131040
-MD5sum: a4ac1a654dbdfaef4577783df08c0e0f
-SHA1: ecc813197cc79c38fcc7b106a9a856d8a65edc3d
-SHA256: c8271b5be727a60ed589b5fe0eaac2b005017c4cb5920c51be55864e6e200f46
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/a2.rootless_0.5_iphoneos-arm64.deb
+Size: 71580
+MD5sum: a0f82b147953bb921769b8bbfdccd55e
+SHA1: 6129284d09a4fcb82f113462df1addd75027fd8f
+SHA256: 67b7e7cfbe9c626a5e468c817d9d7a10314fd6345a7203c98ae2b6c455974cab
 Section: System
-Description: 此版本为rootless测试版，请先勿安装，等待我的反馈。让锁屏显示更晚的时间，潜意识地欺骗你已经到了时间点，本质上真实时间比你看到的更早，以避免错过约定的时间
+Description: 让锁屏显示更晚的时间，潜意识地欺骗你已经到了时间点，本质上真实时间比你看到的更早，以避免错过约定的时间
 Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/a2.png
-
-Package: a2
-Version: 0.3.1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 552
-Depends: mobilesubstrate, xc.lzsxcl.lib2 (>= 0.1.5)
-Conflicts: com.ioscreatix.silo
-Replaces: com.ioscreatix.silo
-Provides: com.ioscreatix.silo
-Filename: ./debs/a2_0.3.1_iphoneos-arm64.deb
-Size: 130976
-MD5sum: 0426dce2895d2fd529c010b968f74fb2
-SHA1: e261de9ae884649b6d269864a3b4a94f468b1dfa
-SHA256: d78341cc9f480f2d2bf80e23765ae37636acd74a0ea0bd4f6b24cb6256849a33
-Section: System
-Description: 此版本为rootless测试版，请先勿安装，等待我的反馈。让锁屏显示更晚的时间，潜意识地欺骗你已经到了时间点，本质上真实时间比你看到的更早，以避免错过约定的时间
-Author: lzsxcl
-Icon: http://cdn.share.lzsxcl.cc/Tweak/a2.png
-
-Package: a2
-Version: 0.3.2
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 552
-Conflicts: com.ioscreatix.silo
-Replaces: com.ioscreatix.silo
-Provides: com.ioscreatix.silo
-Filename: ./debs/a2_0.3.2_iphoneos-arm64.deb
-Size: 130914
-MD5sum: d3d51700d30d500e8eafcee92c9d608d
-SHA1: 6b08f1865a0258042eab1c05b7606cb59dcc1249
-SHA256: d47fbbf3e4c953f5b2a20be00c4bdfa024fe4cc174ce08e113ff87e5286c9c75
-Section: System
-Description: 此版本为rootless测试版，请先勿安装，等待我的反馈。让锁屏显示更晚的时间，潜意识地欺骗你已经到了时间点，本质上真实时间比你看到的更早，以避免错过约定的时间
-Author: lzsxcl
-Icon: http://cdn.share.lzsxcl.cc/Tweak/a2.png
-
-Package: a2
-Version: 0.3.3
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 552
-Conflicts: com.ioscreatix.silo
-Replaces: com.ioscreatix.silo
-Provides: com.ioscreatix.silo
-Filename: ./debs/a2_0.3.3_iphoneos-arm64.deb
-Size: 130914
-MD5sum: f7e19d5a7fe7e4f22d4df2770454b8d5
-SHA1: d6178347fc053163cb8d5af732ba6625ad4ee017
-SHA256: 5a9d4acc3dd7919c985c2d9f07eaa242e17aa6d5df6aab80a7545e1183c746f7
-Section: System
-Description: 此版本为rootless测试版，请先勿安装，等待我的反馈。让锁屏显示更晚的时间，潜意识地欺骗你已经到了时间点，本质上真实时间比你看到的更早，以避免错过约定的时间
-Author: lzsxcl
-Icon: http://cdn.share.lzsxcl.cc/Tweak/a2.png
+Name: a2
 
 Package: com.lzsxcl.cc
 Version: 0.6.4
@@ -105,46 +48,6 @@ Description: cc控制中心精简版 ccsupport（iOS13-14）添加些常用的�
 Author: lzsxcl
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: CC control center
-
-Package: com.opa334.ccsupport
-Version: 1.3.10
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Installed-Size: 528
-Depends: mobilesubstrate, firmware (>=11.0)
-Conflicts: com.ioscreatix.silo
-Replaces: com.ioscreatix.silo
-Provides: com.ioscreatix.silo
-Filename: ./debs/com.opa334.ccsupport_1.3.10_iphoneos-arm64.deb
-Size: 55742
-MD5sum: 980f49f86db26d8e184ce38af2a0c106
-SHA1: 7c3394086a53a3420120b50477fb16d0a8c400ec
-SHA256: 63a08be662496ad39df33b6129ec3f79ff62c0509ece472301661b5a012f20ce
-Section: Tweaks
-Description: Support tweak for CC modules!
-Author: opa334
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
-Name: CCSupport
-
-Package: ellekit
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: Evelyn
-Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
-Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
-Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
-Filename: ./debs/ellekit_0.3_iphoneos-arm64.deb
-Size: 376852
-MD5sum: 00e74d2427855a5a0e7cbad805579a08
-SHA1: 7e09ff535ee0ac3bba52b1f13124296ca5c07887
-SHA256: 31f769b78712661c07632247db117618d989206bca418e2f071404f10238f9c4
-Section: Tweak Injection
-Priority: optional
-Description: ElleKit tweak injection libraries and loader
- ElleKit tweak injection libraries and loader. Currently in beta,
- does not currently include a LaunchDaemon.
-Author: Evelyn
-Name: ElleKit (Beta)
 
 Package: l2
 Version: 0.6
@@ -278,6 +181,25 @@ SHA1: 630bb4fa7a7ce30794a32cb19e683d8a3e76d2de
 SHA256: e42f40cdb4ae1443ca07d20b20cf88947540117019dd849644a86e3c8d564c89
 Section: Tweaks
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。非作者源/BigBoss源安装数字2系列插件，或借助第三方工具修改此插件参数，有机会获得清空微信聊天记录体验，由侥幸心理所产生的一切后果，本人概不负责，需使用者自行承担。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
+Package: xc.lzsxcl.o2.rootless
+Version: 3.0.1-50
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 9972
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/xc.lzsxcl.o2.rootless_3.0.1-50_iphoneos-arm64.deb
+Size: 4248288
+MD5sum: 7363ab27a8684b8b88b867de15f79b4b
+SHA1: 86601048b35842f3f3757ccee0f343f468af33b0
+SHA256: 3189abd9e83c2f9199a7b4736ece3264f3edac29edb1cee5b43fb83fb9cad7c3
+Section: Tweaks
+Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
 Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
 Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
