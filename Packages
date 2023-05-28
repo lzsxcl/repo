@@ -186,6 +186,25 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2 Pro
 Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
 
+Package: xc.lzsxcl.o2
+Version: 4.0-1
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 11308
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/xc.lzsxcl.o2_4.0-1_iphoneos-arm.deb
+Size: 4853680
+MD5sum: 9f827fbda2634b990b449504bdff6cbe
+SHA1: 9b28fb2b104a40f83ac07d992a33a562ba173577
+SHA256: d10f600f19a7dd5cd594e790ee36bfe2962f7751d586a916c522eb6d8309de12
+Section: Tweaks
+Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
 Package: xc.lzsxcl.o2.rootless
 Version: 3.1.3-4
 Architecture: iphoneos-arm64
@@ -216,6 +235,25 @@ Size: 4449098
 MD5sum: 31cc9b81f9d93bd1c89dde7163168893
 SHA1: 1f5adcacffaf10c05abc0e765090c1108e74c8bd
 SHA256: 071a62b9a707c819df65cf9574e8bb898dc4c2157895039d19d69d62f4d763c2
+Section: Tweaks
+Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2 Pro rootless
+Sileodepiction: https://lzsxcl.github.io/repo/sileodepictions/xc.lzsxcl.o2/depiction.json
+
+Package: xc.lzsxcl.o2.rootless
+Version: 4.0-11
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 11308
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/xc.lzsxcl.o2.rootless_4.0-11_iphoneos-arm64.deb
+Size: 4844226
+MD5sum: 21bbaae62ac6698447e9e1d99f204ced
+SHA1: cf8dedd86d7a884600ef26271313a7f28765010f
+SHA256: af7ae053ecd67daf68b6c95509ac355ccde9a102a715d48743e3a4f79e6f2154
 Section: Tweaks
 Description: 致敬·锤子OS·One Step，一步打通应用间的边界，全新美观便捷的分屏新方式。
 Author: lzsxcl
