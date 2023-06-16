@@ -436,6 +436,23 @@ Author: lzsxcl
 Icon: http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg
 Name: w2 Pro
 
+Package: xc.lzsxcl.w2
+Version: 0.6.3-2
+Architecture: iphoneos-arm
+Maintainer: lzsxcl
+Installed-Size: 1756
+Depends: mobilesubstrate
+Filename: ./debs/xc.lzsxcl.w2_0.6.3-2_iphoneos-arm.deb
+Size: 691124
+MD5sum: c2d74293246ffc185b38b2c884ff439c
+SHA1: 296700f2caeb90bcd1c27f291300d3a055b52903
+SHA256: cebe5b8e524108967f689f4a0ce31d6a3b3e4231012a52a680ee0d7c102b00f1
+Section: Tweaks
+Description: 使用选定的虚拟视频来替换真实的摄像头或拍照信息，保护隐私，广泛用于微信恶搞视频聊天。
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg
+Name: w2 Pro
+
 Package: xc.lzsxcl.w2.rootless
 Version: 0.6
 Architecture: iphoneos-arm64
@@ -481,6 +498,23 @@ Size: 702804
 MD5sum: 7e7adef23bcaf7836b003690a20a58cb
 SHA1: deb1b9b7d637cab83d46f6411dfe5e3701b351cf
 SHA256: dabe78bd484fa79517232e15a8b2a5fa099e82f02249d6a2f80e3b6efd106467
+Section: Tweaks
+Description: 使用选定的虚拟视频来替换真实的摄像头或拍照信息，保护隐私，广泛用于微信恶搞视频聊天。
+Author: lzsxcl
+Icon: http://cdn.share.lzsxcl.cc/Tweak/w2Pro.jpg
+Name: w2 Pro rootless
+
+Package: xc.lzsxcl.w2.rootless
+Version: 0.6.3-7
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 1756
+Depends: mobilesubstrate
+Filename: ./debs/xc.lzsxcl.w2.rootless_0.6.3-7_iphoneos-arm64.deb
+Size: 689906
+MD5sum: d71650ce5ab0cfa88a86fe4175b8f788
+SHA1: 4ace9ed9e09fa89a38d59f6801456a571482aae9
+SHA256: 8fa9f001af0a4d4845f630d31ec213fe840992fcf0bffcca93ef48916bfb5711
 Section: Tweaks
 Description: 使用选定的虚拟视频来替换真实的摄像头或拍照信息，保护隐私，广泛用于微信恶搞视频聊天。
 Author: lzsxcl
